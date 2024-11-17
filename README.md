@@ -84,33 +84,9 @@
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=zxzinn&theme=tokyonight&hide_border=true&background=0D1117&stroke=6495ED&fire=6495ED&ring=6495ED" alt="GitHub Streak"/>
 </div>
 
-<!-- Profile Summary Cards -->
-<div align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zxzinn&theme=tokyonight" alt="Profile Details"/>
-  
-  <div style="display: flex;">
-    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zxzinn&theme=tokyonight" alt="Top Languages by Repo"/>
-    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zxzinn&theme=tokyonight" alt="Top Languages by Commit"/>
-  </div>
-  
-  <div style="display: flex;">
-    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zxzinn&theme=tokyonight" alt="Stats"/>
-    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zxzinn&theme=tokyonight&utcOffset=8" alt="Commits"/>
-  </div>
-</div>
-
 <!-- Activity Graph -->
 <div align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=zxzinn&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6495ED&line=6495ED&point=FFFFFF" alt="GitHub Activity Graph"/>
-</div>
-
-<!-- Contribution Snake -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zxzinn/zxzinn/main/dist/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zxzinn/zxzinn/main/dist/github-contribution-grid-snake.svg"/>
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/zxzinn/zxzinn/main/dist/github-contribution-grid-snake.svg"/>
-  </picture>
 </div>
 
 <!-- 3D Contrib -->
