@@ -24,15 +24,6 @@
 
 ### 💻 Technical Skills
 
-<!-- Animated Skill Icons -->
-<div align="center">
-  <h4>🛠️ Programming & Development</h4>
-  <img src="https://skillicons.dev/icons?i=rust,python,typescript,java,docker,kubernetes&theme=dark&perline=6" />
-  <br/>
-  <h4>🤖 AI & Security Tools</h4>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,linux,git,vim&theme=dark&perline=5" />
-</div>
-
 **Programming Languages**
 ![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=flat-square&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
