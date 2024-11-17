@@ -1,11 +1,19 @@
 <h1 align="center">Hi 👋, I'm Xinn</h1>
-<h3 align="center">Student Developer | AI & Security Enthusiast</h3>
+
+<!-- Typing SVG -->
+<h3 align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6495ED&center=true&vCenter=true&random=false&width=435&lines=Student+Developer;AI+%26+Security+Enthusiast;Rust+%26+AI+Developer;Always+Learning%2C+Always+Growing" alt="Typing SVG" />
+</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/zxzinn">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=zxzinn&label=Profile%20views&color=6495ED&style=flat" alt="Profile views"/>
+</div>
 
 ### 🚀 About Me
 - 🎓 Computer Science student passionate about software development
@@ -15,6 +23,15 @@
 - 🏆 Grateful recipient of **DevCore Information Security Scholarship**
 
 ### 💻 Technical Skills
+
+<!-- Animated Skill Icons -->
+<div align="center">
+  <h4>🛠️ Programming & Development</h4>
+  <img src="https://skillicons.dev/icons?i=rust,python,typescript,java,docker,kubernetes&theme=dark&perline=6" />
+  <br/>
+  <h4>🤖 AI & Security Tools</h4>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,linux,git,vim&theme=dark&perline=5" />
+</div>
 
 **Programming Languages**
 ![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=flat-square&logo=rust&logoColor=white)
@@ -70,14 +87,45 @@
 
 ### 📊 GitHub Stats
 
+<!-- GitHub Stats Cards -->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zxzinn&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=zxzinn&theme=tokyonight&hide_border=true&background=0D1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zxzinn&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&ring_color=6495ED" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=zxzinn&theme=tokyonight&hide_border=true&background=0D1117&stroke=6495ED&fire=6495ED&ring=6495ED" alt="GitHub Streak"/>
 </div>
 
+<!-- Profile Summary Cards -->
 <div align="center">
-  <img width="40%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zxzinn&layout=compact&hide_border=true&title_color=2f80ed&text_color=70A5FD&bg_color=0D1117" />
-  <img width="58%" height="195px" src="https://github-readme-activity-graph.vercel.app/graph?username=zxzinn&theme=tokyo-night&hide_border=true&bg_color=0D1117"/>
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zxzinn&theme=tokyonight" alt="Profile Details"/>
+  
+  <div style="display: flex;">
+    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zxzinn&theme=tokyonight" alt="Top Languages by Repo"/>
+    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zxzinn&theme=tokyonight" alt="Top Languages by Commit"/>
+  </div>
+  
+  <div style="display: flex;">
+    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zxzinn&theme=tokyonight" alt="Stats"/>
+    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zxzinn&theme=tokyonight&utcOffset=8" alt="Commits"/>
+  </div>
 </div>
 
----
+<!-- Activity Graph -->
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=zxzinn&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6495ED&line=6495ED&point=FFFFFF" alt="GitHub Activity Graph"/>
+</div>
+
+<!-- Contribution Snake -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="dist/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="dist/github-contribution-grid-snake.svg"/>
+    <img alt="github contribution grid snake animation" src="dist/github-contribution-grid-snake.svg"/>
+  </picture>
+</div>
+
+<!-- GitHub Trophies -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=zxzinn&theme=tokyonight&row=1&column=7&margin-w=15&margin-h=15&no-frame=true&no-bg=true" alt="GitHub Trophies"/>
+</div>
+
+<!-- Footer -->
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
