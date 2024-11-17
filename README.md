@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Xinn</h1>
-<h3 align="center">Software Engineer | AI Researcher | Security Expert</h3>
+<h3 align="center">Student Developer | AI & Security Enthusiast</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/zxzinn">
@@ -8,28 +8,27 @@
 </p>
 
 ### 🚀 About Me
-- 👨‍💻 Software Engineer specialized in Rust, Python, TypeScript & Java
-- 🏗️ Expert in System Design, Architecture & Clean Code
-- 🤖 Passionate about AI/ML Development & Research
-- 🔒 Focus on Security & Robust System Implementation
-- 🎓 **DevCore Information Security Scholarship** Recipient
+- 🎓 Computer Science student passionate about software development
+- 💡 Learning and exploring Rust, Python, TypeScript & Java
+- 🤖 Interested in AI/ML and its security implications
+- 🔒 Dedicated to understanding system security
+- 🏆 Grateful recipient of **DevCore Information Security Scholarship**
 
-### 💻 Core Technical Skills
+### 💻 Technical Skills
 
-**Programming Languages & Engineering**
+**Programming Languages**
 ![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=flat-square&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
 
-**Software Engineering**
+**Development Tools**
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=flat-square&logo=kubernetes&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-6DB33F?style=flat-square&logo=spring&logoColor=white)
 
-### 🛠️ Specialized Skills
+### 🌱 Learning & Exploring
 
 **AI & Deep Learning**
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white)
@@ -41,8 +40,6 @@
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat-square&logo=chainlink&logoColor=white)
 ![Transformers.js](https://img.shields.io/badge/Transformers.js-FFD21E?style=flat-square&logo=javascript&logoColor=black)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-149EF2?style=flat-square&logo=python&logoColor=white)
-![vLLM](https://img.shields.io/badge/vLLM-00A98F?style=flat-square&logo=python&logoColor=white)
 ![Stable Diffusion](https://img.shields.io/badge/Stable%20Diffusion-FF6F00?style=flat-square&logo=image&logoColor=white)
 
 **Security Tools**
@@ -57,27 +54,21 @@
 - ☁️ Microsoft Azure AI Fundamentals (AI-900)
 - 🔐 DevCore Information Security Scholarship
 
-### 🔬 Research & Development Focus
+### 👨‍💻 Current Focus
 
-**Software Engineering**
-- 🏗️ Distributed Systems & Microservices Architecture
-- 🦀 High-Performance System Development with Rust
-- 🔄 CI/CD Pipeline Optimization
-- 📊 Scalable Backend Services
+**Learning Journey**
+- 📚 Studying distributed systems and system design
+- 🦀 Building projects with Rust
+- 🤖 Exploring LLMs and their applications
+- 🔒 Learning about cybersecurity
 
-**AI Development**
-- 🤖 LLM Integration & Deployment
-- 🎨 Generative AI Applications
-- 🔍 AI Model Optimization
-- 🛠️ MLOps & Production AI Systems
+**Areas of Interest**
+- 🔍 Malware Analysis
+- 🛡️ System Security
+- 🤖 AI Development
+- 🏗️ Software Architecture
 
-**Security Research**
-- 🦠 Malware Analysis & Reverse Engineering
-- 🛡️ SIEM & Threat Detection
-- 🔐 AI System Security
-- 🔍 YARA Rule Development
-
-### 📊 GitHub Stats & Activities
+### 📊 GitHub Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zxzinn&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117"/>
@@ -89,6 +80,4 @@
   <img width="58%" height="195px" src="https://github-readme-activity-graph.vercel.app/graph?username=zxzinn&theme=tokyo-night&hide_border=true&bg_color=0D1117"/>
 </div>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zxzinn&theme=tokyonight&row=1&no-frame=true&no-bg=true&margin-w=15&margin-h=15"/>
-</p>
+---
