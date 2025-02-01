@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Xinn</h1>
 
-<!-- Typing SVG -->
-<h3 align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6495ED&center=true&vCenter=true&random=false&width=435&lines=Student+Developer;AI+%26+Security+Enthusiast;Rust+%26+AI+Developer;Always+Learning%2C+Always+Growing" alt="Typing SVG" />
-</h3>
+
 
 <a>
   <img align="right" width="450px" src="./github-metrics.svg" />
