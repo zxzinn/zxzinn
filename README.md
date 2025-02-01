@@ -30,6 +30,14 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
 
+### 📝 Code Contributions
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Written%20Code-1.2M%20lines-6495ED?style=flat-square&labelColor=434D58&color=1B2431" alt="Written Code"/>
+  <img src="https://img.shields.io/badge/Added-850K%20lines-3FB950?style=flat-square&labelColor=434D58&color=1B2431" alt="Added Lines"/>
+  <img src="https://img.shields.io/badge/Removed-350K%20lines-F85149?style=flat-square&labelColor=434D58&color=1B2431" alt="Removed Lines"/>
+</div>
+
 **Development Tools**
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
