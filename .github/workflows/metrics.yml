@@ -16,14 +16,13 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
           
           # Options
           user: zxzinn
           template: classic
           base: header, activity, community, repositories, metadata
-          config_timezone: Asia/Taipei
+          config_timezone: Asia/Shanghai
           
           # Display
           config_display: regular
@@ -33,7 +32,7 @@ jobs:
           plugin_core: yes
           plugin_core_trim: yes
           
-          # Lines of code
+          # Lines of code and contributions
           plugin_lines: yes
           plugin_lines_sections: repositories, history
           plugin_lines_repositories: all
@@ -41,6 +40,12 @@ jobs:
           plugin_lines_history_limit: 1
           plugin_lines_delay: 30
           plugin_lines_visibility: all
+          plugin_lines_include_organizations: yes
+
+          # Organizations
+          plugin_organizations: yes
+          plugin_organizations_limit: 0
+          plugin_organizations_membership: member
           
           # Languages
           plugin_languages: yes
@@ -56,6 +61,7 @@ jobs:
           plugin_languages_recent_categories: markup, programming
           plugin_languages_recent_load: 300
           plugin_languages_recent_days: 14
+          plugin_languages_indepth: yes
           
           # Achievements
           plugin_achievements: yes
@@ -80,3 +86,6 @@ jobs:
           
           # Include everything
           config_display_includes: all
+          
+          # Debug mode to troubleshoot
+          debug: yes
