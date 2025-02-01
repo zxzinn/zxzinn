@@ -1,10 +1,7 @@
 name: Metrics
 on:
-  # Schedule daily updates
   schedule: [{cron: "0 0 * * *"}]
-  # (optional) Run workflow manually
   workflow_dispatch:
-  # (optional) Run workflow when pushing on master/main
   push: {branches: ["master", "main"]}
 jobs:
   github-metrics:
@@ -22,32 +19,13 @@ jobs:
           user: zxzinn
           template: classic
           base: header, activity, community, repositories, metadata
+          base_indepth: yes
           config_timezone: Asia/Shanghai
-          
-          # Display
           config_display: regular
           config_padding: 0, 8 + 11%
+          repositories_affiliations: owner, collaborator, organization_member
           
-          # Core
-          plugin_core: yes
-          plugin_core_trim: yes
-          
-          # Lines of code and contributions
-          plugin_lines: yes
-          plugin_lines_sections: repositories, history
-          plugin_lines_repositories: all
-          plugin_lines_repositories_limit: 4
-          plugin_lines_history_limit: 1
-          plugin_lines_delay: 30
-          plugin_lines_visibility: all
-          plugin_lines_include_organizations: yes
-
-          # Organizations
-          plugin_organizations: yes
-          plugin_organizations_limit: 0
-          plugin_organizations_membership: member
-          
-          # Languages
+          # Display
           plugin_languages: yes
           plugin_languages_ignored: >-
             html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell,
@@ -62,6 +40,13 @@ jobs:
           plugin_languages_recent_load: 300
           plugin_languages_recent_days: 14
           plugin_languages_indepth: yes
+          
+          # Lines
+          plugin_lines: yes
+          plugin_lines_sections: repositories, history
+          plugin_lines_repositories_limit: 4
+          plugin_lines_history_limit: 1
+          plugin_lines_delay: 30
           
           # Achievements
           plugin_achievements: yes
@@ -80,12 +65,9 @@ jobs:
           plugin_topics_mode: mastered
           plugin_topics_limit: 15
           
-          # Isometric calendar
+          # Calendar
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
           
-          # Include everything
-          config_display_includes: all
-          
-          # Debug mode to troubleshoot
+          # Debug
           debug: yes
