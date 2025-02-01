@@ -5,6 +5,10 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6495ED&center=true&vCenter=true&random=false&width=435&lines=Student+Developer;AI+%26+Security+Enthusiast;Rust+%26+AI+Developer;Always+Learning%2C+Always+Growing" alt="Typing SVG" />
 </h3>
 
+<a>
+  <img align="right" width="450px" src="./github-metrics.svg" />
+</a>
+
 <p align="center">
   <a href="https://linkedin.com/in/zxzinn">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -29,14 +33,6 @@
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
-
-### 📝 Code Contributions
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Written%20Code-1.2M%20lines-6495ED?style=flat-square&labelColor=434D58&color=1B2431" alt="Written Code"/>
-  <img src="https://img.shields.io/badge/Added-850K%20lines-3FB950?style=flat-square&labelColor=434D58&color=1B2431" alt="Added Lines"/>
-  <img src="https://img.shields.io/badge/Removed-350K%20lines-F85149?style=flat-square&labelColor=434D58&color=1B2431" alt="Removed Lines"/>
-</div>
 
 **Development Tools**
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
