@@ -23,7 +23,7 @@ jobs:
           user: zxzinn
           template: classic
           base: header, activity, community, repositories, metadata
-          config_timezone: Asia/Shanghai
+          config_timezone: Asia/Taipei
           
           # Display
           config_display: regular
@@ -36,9 +36,11 @@ jobs:
           # Lines of code
           plugin_lines: yes
           plugin_lines_sections: repositories, history
+          plugin_lines_repositories: all
           plugin_lines_repositories_limit: 4
           plugin_lines_history_limit: 1
           plugin_lines_delay: 30
+          plugin_lines_visibility: all
           
           # Languages
           plugin_languages: yes
@@ -49,6 +51,11 @@ jobs:
           plugin_languages_details: bytes-size, percentage
           plugin_languages_limit: 8
           plugin_languages_threshold: 0%
+          plugin_languages_analysis_timeout: 15
+          plugin_languages_categories: markup, programming
+          plugin_languages_recent_categories: markup, programming
+          plugin_languages_recent_load: 300
+          plugin_languages_recent_days: 14
           
           # Achievements
           plugin_achievements: yes
@@ -59,6 +66,7 @@ jobs:
           plugin_notable: yes
           plugin_notable_filter: stars:>50
           plugin_notable_repositories: yes
+          plugin_notable_indepth: yes
           
           # Topics
           plugin_topics: yes
@@ -69,3 +77,6 @@ jobs:
           # Isometric calendar
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
+          
+          # Include everything
+          config_display_includes: all
