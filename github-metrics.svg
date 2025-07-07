@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1576" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1656" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.contributions{margin:0 8px;flex-wrap:wrap}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.topics{display:flex;flex-wrap:wrap}.topics img{border-radius:5px;margin:4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,.activity .commit .sha,span.code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}.snippet .body{padding-left:12px}.snippet .language-diff{font-size:77%}.snippet.additions{color:#336543}.snippet.deletions{color:#9a5256}.markdown i,code{display:inline-block}.markdown i{width:97%}.markdown p{margin:8px 0}.markdown a{color:#58a6ff;text-decoration:none}code{background-color:#7777771f;border-radius:6px;color:#777;padding:1px 5px;font-size:80%;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}code[class^=language-]{white-space:pre-wrap;width:97%;margin-top:4px}.token.coord{color:#d2a8ff;font-weight:700}.token.inserted:not(.prefix){color:#aad0b4dc;background-color:#336543dc}.space{margin-left:7px}.blue{color:#58a6ff}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.contributions{margin:0 8px;flex-wrap:wrap}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.post{align-items:flex-start}.topics{display:flex;flex-wrap:wrap}.topics img{border-radius:5px;margin:4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,.activity .commit .sha,span.code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}.snippet .body{padding-left:12px}.snippet .language-diff{font-size:77%}.snippet.additions{color:#336543}.snippet.deletions{color:#9a5256}.snippet .token.prefix.unchanged{visibility:hidden}.markdown i,code{display:inline-block}.markdown i{width:97%}.markdown p{margin:8px 0}.markdown a{color:#58a6ff;text-decoration:none}code{background-color:#7777771f;border-radius:6px;color:#777;padding:1px 5px;font-size:80%;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}code[class^=language-]{white-space:pre-wrap;width:97%;margin-top:4px}.token.coord{color:#d2a8ff;font-weight:700}.token.inserted:not(.prefix){color:#aad0b4dc;background-color:#336543dc}.space{margin-left:7px}.blue{color:#58a6ff}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -40,9 +40,9 @@
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </svg>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            1356 Commits
+                            1374 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -115,7 +115,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                             </svg>
-                            Following 82 users
+                            Following 81 users
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -703,8 +703,11 @@
                                     <rect class="day" x="0" y="34" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="49" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="64" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="0" y="79" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="79" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="94" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                </g>
+                                <g transform="translate(405, 0)">
+                                    <rect class="day" x="0" y="4" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                 </g>
                             </g>
                         </svg>
@@ -720,6 +723,187 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 7 commits in
+                                        <span class="repo">Spathodea-Network/t3-saas</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#834b620</div>
+                                        <div class="message">Refactor chat API and permission routes with middleware
+
+- Centralized permission and authentication logic by leveraging `auth-middleware.ts`.
+- Simplified chat and user management APIs by removing inline logic and delegating to middleware (e.g., `withChatPermission`, `withSuperAdmin`).
+- Removed `ChatShare`-related functions, permissions, and APIs following its deprecation.
+- Improved request validation and error handling using `safeGetJsonBody` and `validateRequiredFields`.
+- Streamlined RAG functionality and chat processing logic for improved readability and maintainability.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#06c8ec3</div>
+                                        <div class="message">Refactor API routes with centralized middleware for documents and organization members
+
+- Integrated `auth-middleware.ts` for handling document and organization member permissions.
+- Replaced inline logic in `route.ts` files with `withDocumentPermission`, `withOrgMemberPermission`, and related middleware utilities.
+- Streamlined request validation using `safeGetJsonBody` and `validateRequiredFields` functions.
+- Added enhanced type checks for request contexts, improving consistency across handlers.
+- Simplified route implementations by delegating permission and validation logic to middleware.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0d96b89</div>
+                                        <div class="message">Refactor API routes with middleware for authentication and permissions
+
+- Replaced inline authentication and permission logic with centralized middleware (`auth-middleware.ts`).
+- Consolidated organization and chat permission checks (e.g., `withOrgPermission`, `withChatPermission`) to streamline route logic.
+- Simplified `route.ts` files by delegating validation and authorization to middleware.
+- Added helper functions (`safeGetJsonBody`, `validateRequiredFields`) for safer request handling.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f2dfd54</div>
+                                        <div class="message">Remove Qdrant library and centralize collection initialization logic in `setup-qdrant.ts`
+
+- Deleted `qdrant.ts` and its related functions.
+- Moved and simplified Qdrant collection initialization logic directly into `setup-qdrant.ts`.
+- Removed unsupported file extension definitions from `file-parser.ts`.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#43c935a</div>
+                                        <div class="message">Add type annotation for `NextRequest` import in `auth.ts`</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9c38021</div>
+                                        <div class="message">Specify return type for `mergeStates` function in `chat-state.ts`.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#95bb07a</div>
+                                        <div class="message">Remove `postRouter` and related API routes and procedures
+
+- Deleted `postRouter` and its associated procedures (`hello`, `create`, `getLatest`, `getSecretMessage`) from `post.ts`.
+- Removed `postRouter` reference from `appRouter` in `root.ts` and updated example usage comments.</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">Spathodea-Network/t3-saas</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#3bb12e6</div>
+                                        <div class="message">Add centralized chat state management with URL and localStorage support
+
+- Introduced `chat-state` utility to manage chat settings (`useRAG`), supporting URL parameters and localStorage synchronization.
+- Updated chat pages (`/chat`, `/chat/[id]`) to initialize chat state from URL or localStorage and persist state changes.
+- Replaced individual `useRAG` state with unified `ChatState` object for better scalability and consistency.
+- Enhanced URL navigation to include chat state during transitions.</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 4 commits in
+                                        <span class="repo">Spathodea-Network/t3-saas</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#fb6c4a6</div>
+                                        <div class="message">Remove `ChatShare` and `Post` tables from the database
+
+- Dropped `ChatShare` and `Post` tables, along with related foreign key constraints.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#856a623</div>
+                                        <div class="message">Remove chat sharing and shared chat view functionality
+
+- Deleted API routes for chat sharing (`[id]/share/route.ts`) and shared chat retrieval (`[token]/route.ts`).
+- Removed `SharedChatPage` UI (`[token]/page.tsx`) and related logic for handling shared chats.
+- Removed `ChatShareDialog` component and associated sharing functionality.
+- Simplified related dependencies and logic throughout the codebase.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3c80904</div>
+                                        <div class="message">Add auto-scroll and input focus functionality for chat updates and completions
+
+- Implement automatic scrolling to the bottom and input focus after chat completion.
+- Enable smooth scrolling to the latest message whenever messages are updated.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5dee2e4</div>
+                                        <div class="message">Improve chat layout responsiveness with flexbox adjustments
+
+- Add `min-h-0` to ensure proper scrollable behavior in flex containers.
+- Update `ScrollArea` to use `overflow-hidden` for better layout handling.
+- Refactor styling to enhance chat header and input form responsiveness with `flex-shrink-0`.</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 3 commits in
+                                        <span class="repo">Spathodea-Network/t3-saas</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#085eb11</div>
+                                        <div class="message">Remove `rag.ts` and update dependencies to streamline RAG functionality
+
+- Deleted `rag.ts`, transitioning to `rag-client` for RAG-related operations.
+- Updated environment variables and dependencies for the new RAG service integration.
+- Removed unused `llamaindex` and related packages from `package-lock.json`.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#32644f8</div>
+                                        <div class="message">- Refactor `rag-service` to simplify Qdrant and LlamaIndex integration with OpenInference instrumentation.
+- Add new dependencies for enhanced RAG functionality (`llama-index`, `arize-phoenix`, `qdrant-client`, etc.).
+- Update `/health`, `/query`, and `/documents/add` endpoints with streamlined logic and parameterization.
+- Adjust environment variable handling for dynamic service configuration.
+- Improve CORS settings and add better error handling.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c246fdb</div>
+                                        <div class="message">Introduce `rag-service`: RAG microservice with FastAPI, Docker, Arize Phoenix, and Qdrant integration
+
+- Implement `rag-service` with FastAPI for RAG-based operations (document indexing, querying, and tracking).
+- Add Dockerfile and `docker-compose.yml` for containerized deployment.
+- Integrate Qdrant for vector database operations and Arize Phoenix for observability.
+- Create `/health`, `/query`, and `/documents/add` API endpoints.
+- Provide setup instructions and detailed `README.md` for quick service initialization.</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -759,133 +943,6 @@
 - Enhance chat responses by appending document context when RAG is enabled.
 - Add Prisma `Document` model for storing and indexing organizational documents.
 - Create Prisma migration for `Document` table with relationships and indexes.</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Starred
-                                        <span class="repo">swisskyrepo/PayloadsAllTheThings</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 6 commits in
-                                        <span class="repo">Spathodea-Network/t3-saas</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#3b2e0d8</div>
-                                        <div class="message">Add RAG utility functions for document indexing, searching, and Q&amp;A
-
-- Introduce `rag.ts` with functions to index documents, search via embeddings, and perform RAG-based Q&amp;A.
-- Integrate OpenAI API for text embedding and response generation.
-- Add utilities to delete organization-specific or individual documents from Qdrant.
-- Enhance error handling and logging for indexing and search operations.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#17fa341</div>
-                                        <div class="message">Add Qdrant client and utility functions for vector management
-
-- Introduce `qdrant.ts` with functions for collection initialization, vector search, insertion, and deletion.
-- Define constants for collection names and vector dimensions.
-- Add error handling and logs for Qdrant operations.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#bfa6786</div>
-                                        <div class="message">Update Qdrant setup script to skip environment validation
-
-- Modify `qdrant:setup` script in `package.json` to include `SKIP_ENV_VALIDATION`.
-- Add `setup-qdrant.ts` script for initializing Qdrant collections.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#89fbdab</div>
-                                        <div class="message">Add Qdrant and OpenAI configuration to `env.js` and package dependencies
-
-- Extend `env.js` with Qdrant (`QDRANT_URL`, `QDRANT_API_KEY`) and OpenAI (`OPENAI_API_KEY`) support.
-- Add `@qdrant/js-client-rest` and `dotenv` dependencies to `package.json`.
-- Introduce Qdrant setup script in `package.json` scripts (`qdrant:setup`).</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#243b710</div>
-                                        <div class="message">Add Qdrant service to `docker-compose.yml`
-
-- Introduce Qdrant service for vector database functionality.
-- Expose HTTP (6333) and gRPC (6334) APIs with health check configuration.
-- Add `qdrant_data` volume for persistent storage.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ebb334c</div>
-                                        <div class="message">Remove `LatestPost` component and associated logic
-
-- Delete unused `LatestPost` component from the codebase.
-- Remove associated API queries, mutations, and state management logic.</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">Spathodea-Network/t3-saas</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#dd60388</div>
-                                        <div class="message">Add Google and GitHub authentication providers with environment configuration
-
-- Add Google and GitHub providers to `authConfig` for OAuth authentication.
-- Update `env.js` to include credentials for the new providers.
-- Refactor runtime and environment configuration to support dynamic and secure URL handling.
-- Enhance NextAuth setup with explicit URL and trustHost options for production and development environments.</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">Spathodea-Network/t3-saas</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#9e42d13</div>
-                                        <div class="message">Add reusable `Navigation` component across pages
-
-- Introduce `Navigation` component for consistent navigation across the app.
-- Replace individual navigation setups in pages with the new component.
-- Update `chat`, `admin`, `home`, and `organizations` pages to use `Navigation`.
-- Add API route for super admin check to support dynamic navigation options.
-- Refactor layouts for improved visual consistency and structure.</div>
                                     </div>
                                 </div>
                             </section>
@@ -933,7 +990,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5a.75.75 0 00.471.696l2.5 1a.75.75 0 00.557-1.392L8.5 7.742V4.75z"/>
                             </svg>
-                            On 4 Jul 2025, 23:03:20
+                            On 5 Jul 2025, 01:23:57
                         </div>
                     </section>
                 </div>
@@ -943,16 +1000,22 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            Initial commit
+                            Add organization-specific functionality and tenant management
+
+- Update environment schema to include ORY configuration (`ORY_API_URL` and `ORY_API_TOKEN`).
+- Add `OrganizationSelector` component for managing organizations.
+- Implement organization and tenant-specific backend routes (`/api/tenants`).
+- Enhance chat page with support for organization selection and dynamic chat behavior.
+- Refactor chat input handling to support organization-based customization.
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            <span class="code">94e82cb7</span>
-                            <span class="code">src/server/auth/index.ts</span>
+                            <span class="code">b5c4da5f</span>
+                            <span class="code">src/app/api/organizations/route.ts</span>
                             <span class="code">
-                                <span class="snippet additions">++10</span>
+                                <span class="snippet additions">++1</span>
                                 <span class="snippet deletions">--0</span>
                             </span>
                         </div>
@@ -961,14 +1024,14 @@
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -0,0 +1,10 @@</span><br /><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">import NextAuth from "next-auth";<br /></span><span class="token prefix inserted">+</span><span class="token line">import { cache } from "react";<br /></span><span class="token prefix inserted">+</span><span class="token line"><br /></span><span class="token prefix inserted">+</span><span class="token line">import { authConfig } from "./config";<br /></span><span class="token prefix inserted">+</span><span class="token line"><br /></span><span class="token prefix inserted">+</span><span class="token line">const { auth: uncachedAuth, handlers, signIn, signOut } = NextAuth(authConfig);<br /></span><span class="token prefix inserted">+</span><span class="token line"><br /></span><span class="token prefix inserted">+</span><span class="token line">const auth = cache(uncachedAuth);<br /></span><span class="token prefix inserted">+</span><span class="token line"><br /></span><span class="token prefix inserted">+</span><span class="token line">export { auth, handlers, signIn, signOut };</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -118,6 +118,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">} catch (oryError) {<br /></span><span class="token prefix unchanged">·</span><span class="token line">  console.error("Failed to create Ory permissions:", oryError);<br /></span><span class="token prefix unchanged">·</span><span class="token line">  // Continue even if Ory fails, but log the error<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">  // In production, you might want to handle this differently<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">}<br /></span><span class="token prefix unchanged">·</span><span class="token line"><br /></span><span class="token prefix unchanged">·</span><span class="token line">return NextResponse.json({ organization });</span></span></code>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 6 Jul 2025, 09:56:02 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 7 Jul 2025, 09:53:36 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
