@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1436" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1552" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.contributions{margin:0 8px;flex-wrap:wrap}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.post{align-items:flex-start}.topics{display:flex;flex-wrap:wrap}.topics img{border-radius:5px;margin:4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.contributions{margin:0 8px;flex-wrap:wrap}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.topics{display:flex;flex-wrap:wrap}.topics img{border-radius:5px;margin:4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,.activity .commit .sha,span.code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.deleted{color:#da3633}.field.license.details{display:flex;justify-content:space-between}.snippet .body{padding-left:12px}.snippet .language-diff{font-size:77%}.snippet.additions{color:#336543}.snippet.deletions{color:#9a5256}.snippet .token.prefix.unchanged{visibility:hidden}.markdown i,code{display:inline-block}.markdown i{width:97%}.markdown p{margin:8px 0}.markdown a{color:#58a6ff;text-decoration:none}code{background-color:#7777771f;border-radius:6px;color:#777;padding:1px 5px;font-size:80%;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}code[class^=language-]{white-space:pre-wrap;width:97%;margin-top:4px}.token.property{color:#48428a}.token.coord{color:#d2a8ff;font-weight:700}.token.inserted:not(.prefix){color:#aad0b4dc;background-color:#336543dc}.token.deleted:not(.prefix){color:#eed2d0dc;background-color:#9a5256dc}.space{margin-left:7px}.blue{color:#58a6ff}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -30,19 +30,19 @@
                         <div class="field calendar">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
-                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="60" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </svg>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            1387 Commits
+                            1397 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -717,11 +717,12 @@
                                 </g>
                                 <g transform="translate(420, 0)">
                                     <rect class="day" x="0" y="4" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="0" y="19" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="19" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="34" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="49" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="64" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="79" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="94" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                 </g>
                             </g>
                         </svg>
@@ -741,79 +742,18 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 5a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm.061 3.073a4 4 0 10-5.123 0 6.004 6.004 0 00-3.431 5.142.75.75 0 001.498.07 4.5 4.5 0 018.99 0 .75.75 0 101.498-.07 6.005 6.005 0 00-3.432-5.142z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Added zxzinn as collaborator in
-                                        <span class="repo">zhaoxinn-chang/llama_index</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 7 commits in
+                                        Pushed 1 commit in
                                         <span class="repo">Spathodea-Network/t3-saas</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#834b620</div>
-                                        <div class="message">Refactor chat API and permission routes with middleware
-
-- Centralized permission and authentication logic by leveraging `auth-middleware.ts`.
-- Simplified chat and user management APIs by removing inline logic and delegating to middleware (e.g., `withChatPermission`, `withSuperAdmin`).
-- Removed `ChatShare`-related functions, permissions, and APIs following its deprecation.
-- Improved request validation and error handling using `safeGetJsonBody` and `validateRequiredFields`.
-- Streamlined RAG functionality and chat processing logic for improved readability and maintainability.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#06c8ec3</div>
-                                        <div class="message">Refactor API routes with centralized middleware for documents and organization members
-
-- Integrated `auth-middleware.ts` for handling document and organization member permissions.
-- Replaced inline logic in `route.ts` files with `withDocumentPermission`, `withOrgMemberPermission`, and related middleware utilities.
-- Streamlined request validation using `safeGetJsonBody` and `validateRequiredFields` functions.
-- Added enhanced type checks for request contexts, improving consistency across handlers.
-- Simplified route implementations by delegating permission and validation logic to middleware.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0d96b89</div>
-                                        <div class="message">Refactor API routes with middleware for authentication and permissions
-
-- Replaced inline authentication and permission logic with centralized middleware (`auth-middleware.ts`).
-- Consolidated organization and chat permission checks (e.g., `withOrgPermission`, `withChatPermission`) to streamline route logic.
-- Simplified `route.ts` files by delegating validation and authorization to middleware.
-- Added helper functions (`safeGetJsonBody`, `validateRequiredFields`) for safer request handling.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f2dfd54</div>
-                                        <div class="message">Remove Qdrant library and centralize collection initialization logic in `setup-qdrant.ts`
-
-- Deleted `qdrant.ts` and its related functions.
-- Moved and simplified Qdrant collection initialization logic directly into `setup-qdrant.ts`.
-- Removed unsupported file extension definitions from `file-parser.ts`.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#43c935a</div>
-                                        <div class="message">Add type annotation for `NextRequest` import in `auth.ts`</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9c38021</div>
-                                        <div class="message">Specify return type for `mergeStates` function in `chat-state.ts`.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#95bb07a</div>
-                                        <div class="message">Remove `postRouter` and related API routes and procedures
-
-- Deleted `postRouter` and its associated procedures (`hello`, `create`, `getLatest`, `getSecretMessage`) from `post.ts`.
-- Removed `postRouter` reference from `appRouter` in `root.ts` and updated example usage comments.</div>
+                                        <div class="sha">#80c1c2b</div>
+                                        <div class="message">Add `@radix-ui/react-popover` dependency for implementing popover components</div>
                                     </div>
                                 </div>
                             </section>
@@ -832,13 +772,13 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#3bb12e6</div>
-                                        <div class="message">Add centralized chat state management with URL and localStorage support
+                                        <div class="sha">#2c562d5</div>
+                                        <div class="message">Remove unused imports, simplify type assertions, and configure linting setup
 
-- Introduced `chat-state` utility to manage chat settings (`useRAG`), supporting URL parameters and localStorage synchronization.
-- Updated chat pages (`/chat`, `/chat/[id]`) to initialize chat state from URL or localStorage and persist state changes.
-- Replaced individual `useRAG` state with unified `ChatState` object for better scalability and consistency.
-- Enhanced URL navigation to include chat state during transitions.</div>
+- Deleted unused imports across components and API routes for cleaner codebase.
+- Simplified type assertions by replacing explicit casts with non-null assertion operators (`!`).
+- Configured `lint-staged` and `husky` for pre-commit linting and added related dependencies (`eslint-plugin-unused-imports`, `lint-staged`, `husky`).
+- Removed unnecessary utility functions like `safeGetJsonBody` in API routes.</div>
                                     </div>
                                 </div>
                             </section>
@@ -850,41 +790,20 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 4 commits in
+                                        Pushed 1 commit in
                                         <span class="repo">Spathodea-Network/t3-saas</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#fb6c4a6</div>
-                                        <div class="message">Remove `ChatShare` and `Post` tables from the database
+                                        <div class="sha">#432bbe2</div>
+                                        <div class="message">Add citation support to chat messages
 
-- Dropped `ChatShare` and `Post` tables, along with related foreign key constraints.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#856a623</div>
-                                        <div class="message">Remove chat sharing and shared chat view functionality
-
-- Deleted API routes for chat sharing (`[id]/share/route.ts`) and shared chat retrieval (`[token]/route.ts`).
-- Removed `SharedChatPage` UI (`[token]/page.tsx`) and related logic for handling shared chats.
-- Removed `ChatShareDialog` component and associated sharing functionality.
-- Simplified related dependencies and logic throughout the codebase.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3c80904</div>
-                                        <div class="message">Add auto-scroll and input focus functionality for chat updates and completions
-
-- Implement automatic scrolling to the bottom and input focus after chat completion.
-- Enable smooth scrolling to the latest message whenever messages are updated.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5dee2e4</div>
-                                        <div class="message">Improve chat layout responsiveness with flexbox adjustments
-
-- Add `min-h-0` to ensure proper scrollable behavior in flex containers.
-- Update `ScrollArea` to use `overflow-hidden` for better layout handling.
-- Refactor styling to enhance chat header and input form responsiveness with `flex-shrink-0`.</div>
+- Extended chat messages schema to include an optional `citations` property.
+- Updated API routes to handle citations in message creation and retrieval.
+- Enhanced chat UI components to display citations with messages.
+- Improved citation fetching logic in `MessageWithCitations` component.</div>
                                     </div>
                                 </div>
                             </section>
@@ -896,37 +815,92 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 3 commits in
+                                        Pushed 7 commits in
                                         <span class="repo">Spathodea-Network/t3-saas</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#085eb11</div>
-                                        <div class="message">Remove `rag.ts` and update dependencies to streamline RAG functionality
+                                        <div class="sha">#a8570ef</div>
+                                        <div class="message">Remove chat and citation context management
 
-- Deleted `rag.ts`, transitioning to `rag-client` for RAG-related operations.
-- Updated environment variables and dependencies for the new RAG service integration.
-- Removed unused `llamaindex` and related packages from `package-lock.json`.</div>
+- Deleted `ChatContext` and its provider (`chat-context.tsx`).
+- Removed `useCitationSources` and associated utilities.
+- Cleaned up RAG-related logic, including citation source handling in API routes.
+- Simplified `message-sources` component by removing unnecessary handlers.
+- Removed debug logs from API implementations (`chat` and `sources` routes).</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#32644f8</div>
-                                        <div class="message">- Refactor `rag-service` to simplify Qdrant and LlamaIndex integration with OpenInference instrumentation.
-- Add new dependencies for enhanced RAG functionality (`llama-index`, `arize-phoenix`, `qdrant-client`, etc.).
-- Update `/health`, `/query`, and `/documents/add` endpoints with streamlined logic and parameterization.
-- Adjust environment variable handling for dynamic service configuration.
-- Improve CORS settings and add better error handling.</div>
+                                        <div class="sha">#91aab6c</div>
+                                        <div class="message">Refactor chat navigation and enhance history loading
+
+- Added state for managing chat history loading.
+- Enabled URL-based chat ID detection and history fetching.
+- Improved navigation with history API for smoother transitions.
+- Dynamically updated chat title in the sidebar header.</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#c246fdb</div>
-                                        <div class="message">Introduce `rag-service`: RAG microservice with FastAPI, Docker, Arize Phoenix, and Qdrant integration
+                                        <div class="sha">#ab95ab1</div>
+                                        <div class="message">Refactor request body handling in organization and chat APIs
 
-- Implement `rag-service` with FastAPI for RAG-based operations (document indexing, querying, and tracking).
-- Add Dockerfile and `docker-compose.yml` for containerized deployment.
-- Integrate Qdrant for vector database operations and Arize Phoenix for observability.
-- Create `/health`, `/query`, and `/documents/add` API endpoints.
-- Provide setup instructions and detailed `README.md` for quick service initialization.</div>
+- Replaced `safeGetJsonBody` with `requestBody` for improved middleware context handling.
+- Added `requestBody` to `OrgPermissionContext` for streamlined data passing.
+- Updated relevant API routes (`chats`, `organizations`, `members`) to use the new context structure.
+- Added `Users` icon to `/chat/[id]/page.tsx`.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f35e5c9</div>
+                                        <div class="message">Add document reprocessing and rich metadata for enhanced citation management
+
+- Introduced document reprocessing functionality via a new PUT API endpoint.
+- Enhanced document processing with rich metadata, including title, filename, size, and creation date, for improved citation tracking.
+- Updated chat context generation to include inline citations and a detailed "来源" section with citation sources.
+- Improved RAG retrieval and context formatting with citation-specific metadata and logging enhancements.
+- Added a new reprocess button to document management UI for triggering reprocessing and status updates.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f074d2d</div>
+                                        <div class="message">Enhance document management with file validation and improved API integration
+
+- Added file type and size validation for document uploads, including error handling with user feedback.
+- Switched to `FormData` for direct file uploads, streamlining server-side processing.
+- Expanded accepted file formats to include `.csv`, `.json`, `.html`, `.xml`, and `.pdf`.
+- Improved error messaging and input clearing for better user experience.
+- Updated RAG retrieval logging for enhanced debugging.
+- Integrated additional dependencies (`pdf-parse`, `@llamaindex/readers`) to support new file processing capabilities.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a918576</div>
+                                        <div class="message">Reintroduce RAG features and document management functionality
+
+- Added document upload and management pages, with asynchronous processing and status tracking.
+- Integrated RAG functionality into the chat experience with document-based context retrieval.
+- Implemented API routes for document management and retrieval (GET, POST, DELETE).
+- Configured environment variables for Milvus integration to support vector storage.
+- Introduced a toggle in the chat UI to enable/disable RAG-based context during conversations.
+- Updated environment validation to include optional Milvus settings.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e5019ae</div>
+                                        <div class="message">Remove chat state management logic and RAG-related UI
+
+- Deleted `chat-state.ts` and associated state management utilities.
+- Removed all RAG-related UI components, including the toggle and state-based placeholders.
+- Cleaned up unused imports and props in chat components.</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 5a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm.061 3.073a4 4 0 10-5.123 0 6.004 6.004 0 00-3.431 5.142.75.75 0 001.498.07 4.5 4.5 0 018.99 0 .75.75 0 101.498-.07 6.005 6.005 0 00-3.432-5.142z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Added zxzinn as collaborator in
+                                        <span class="repo">zhaoxinn-chang/llama_index</span>
                                     </div>
                                 </div>
                             </section>
@@ -963,16 +937,58 @@
                     <section class="largeable-column-fields">
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
+                            </svg>
+                            From
+                            <span class="blue space">Spathodea-Network/t3-saas</span>
+                        </div>
+                    </section>
+                    <section class="largeable-column-fields">
+                        <div class="field">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5a.75.75 0 00.471.696l2.5 1a.75.75 0 00.557-1.392L8.5 7.742V4.75z"/>
+                            </svg>
+                            On 19 Jul 2025, 23:36:09
+                        </div>
+                    </section>
+                </div>
+                <div class="row">
+                    <section class="largeable-column-fields">
+                        <div class="field">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                            </svg>
+                            Remove unused imports, simplify type assertions, and configure linting setup
+
+- Deleted unused imports across components and API routes for cleaner codebase.
+- Simplified type assertions by replacing explicit casts with non-null assertion operators (`!`).
+- Configured `lint-staged` and `husky` for pre-commit linting and added related dependencies (`eslint-plugin-unused-imports`, `lint-staged`, `husky`).
+- Removed unnecessary utility functions like `safeGetJsonBody` in API routes.
+                        </div>
+                        <div class="field">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            No recent code snippet found
+                            <span class="code">2c562d5a</span>
+                            <span class="code">src/app/api/admin/users/[id]/route.ts</span>
+                            <span class="code">
+                                <span class="snippet additions">++2</span>
+                                <span class="snippet deletions">--2</span>
+                            </span>
+                        </div>
+                    </section>
+                </div>
+                <div class="row">
+                    <section class="snippet">
+                        <div class="body markdown">
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -1,6 +1,6 @@</span><br /><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">import { NextRequest, NextResponse } from "next/server";<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">import { NextResponse } from "next/server";<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">import { db } from "@/server/db";<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">import { withSuperAdmin, safeGetJsonBody, validateRequiredFields } from "@/lib/auth-middleware";<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">import { withSuperAdmin, safeGetJsonBody } from "@/lib/auth-middleware";<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line"><br /></span><span class="token prefix unchanged">·</span><span class="token line">// 定義系統角色型別<br /></span><span class="token prefix unchanged">·</span><span class="token line">type SystemRole = "super_admin" | "admin" | "user";</span></span></code>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 19 Jul 2025, 09:50:01 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 20 Jul 2025, 10:02:35 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
