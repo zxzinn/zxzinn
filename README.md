@@ -65,8 +65,8 @@ impl Developer {
 
 <!-- GitHub Stats -->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zxzinn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6495ED&icon_color=6495ED"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=zxzinn&theme=tokyonight&hide_border=true&background=0D1117&stroke=6495ED&ring=6495ED&fire=6495ED&currStreakLabel=6495ED" alt="GitHub Streak" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zxzinn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&include_orgs=true&hide_border=true&bg_color=0D1117&title_color=6495ED&icon_color=6495ED&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=zxzinn&theme=tokyonight&hide_border=true&background=0D1117&stroke=6495ED&ring=6495ED&fire=6495ED&currStreakLabel=6495ED&include_all_commits=true" alt="GitHub Streak" />
 </div>
 
 <!-- Certifications -->
