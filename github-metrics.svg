@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1557" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1534" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.contributions{margin:0 8px;flex-wrap:wrap}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.label{background-color:#58a6ff30;color:#0366d6;padding:0 10px;font-weight:500;line-height:22px;margin:2px 5px;white-space:nowrap;border-radius:32px;font-size:12px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;justify-content:flex-end;padding:0 4px}.topics{display:flex;flex-wrap:wrap}.topics img{border-radius:5px;margin:4px}.repository,footer{display:flex;flex-direction:column}.repository{width:100%;margin:6px 0}.repository .description{display:block;width:440px;white-space:normal;color:#666;margin-left:38px;font-size:13px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.people{padding:0 10px}.people .avatar{margin:0 2px}.project .description{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-left:37px;max-height:38px;font-size:12px;white-space:normal;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.project .items{padding-left:11px}.project .items .text{text-overflow:ellipsis;overflow:hidden;width:426px}.field.license.details{display:flex;justify-content:space-between}.snippet .body{padding-left:12px}.snippet .language-diff{font-size:77%}.snippet.additions{color:#336543}.snippet.deletions{color:#9a5256}.snippet .token.prefix.unchanged{visibility:hidden}.markdown b,.markdown i{display:inline-block;width:97%}.markdown p{margin:8px 0}.markdown a{color:#58a6ff;text-decoration:none}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}code[class^=language-]{white-space:pre-wrap;width:97%;margin-top:4px}.token.comment{color:#690}.token.trimmed{font-style:italic;color:#77777760}.token.coord{color:#d2a8ff;font-weight:700}.token.inserted:not(.prefix){color:#aad0b4dc;background-color:#336543dc}.space{margin-left:7px}.blue{color:#58a6ff}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.contributions{margin:0 8px;flex-wrap:wrap}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.label{background-color:#58a6ff30;color:#0366d6;padding:0 10px;font-weight:500;line-height:22px;margin:2px 5px;white-space:nowrap;border-radius:32px;font-size:12px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.topics{display:flex;flex-wrap:wrap}.topics img{border-radius:5px;margin:4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,.activity .commit .sha,span.code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.people{padding:0 10px}.people .avatar{margin:0 2px}.field.license.details{display:flex;justify-content:space-between}.snippet .body{padding-left:12px}.snippet .language-diff{font-size:77%}.snippet.additions{color:#336543}.snippet.deletions{color:#9a5256}.snippet .token.prefix.unchanged{visibility:hidden}.markdown i,code{display:inline-block}.markdown i{width:97%}.markdown p{margin:8px 0}.markdown a{color:#58a6ff;text-decoration:none}code{background-color:#7777771f;border-radius:6px;color:#777;padding:1px 5px;font-size:80%;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}code[class^=language-]{white-space:pre-wrap;width:97%;margin-top:4px}.token.comment{color:#690}.token.string{color:#2777aa}.token.coord{color:#d2a8ff;font-weight:700}.token.inserted:not(.prefix){color:#aad0b4dc;background-color:#336543dc}.space{margin-left:7px}.blue{color:#58a6ff}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -39,11 +39,11 @@
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            1587 Commits
+                            1594 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -81,7 +81,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                             </svg>
-                            24 Pull requests opened
+                            25 Pull requests opened
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -94,7 +94,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                             </svg>
-                            19 issue comments
+                            20 issue comments
                         </div>
                     </section>
                     <section>
@@ -127,7 +127,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                             </svg>
-                            Starred 501 repositories
+                            Starred 502 repositories
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -228,11 +228,11 @@
                                 <rect x="0" y="0" width="220" height="8" fill="white" rx="5"/>
                             </mask>
                             <rect mask="url(#issues-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                            <rect mask="url(#issues-bar)" x="0" y="0" width="135.3846153846154" height="8" fill="#238636"/>
-                            <rect mask="url(#issues-bar)" x="135.3846153846154" y="0" width="0" height="8" fill="#56d364"/>
-                            <rect mask="url(#issues-bar)" x="135.3846153846154" y="0" width="0" height="8" fill="#8B949E"/>
-                            <rect mask="url(#issues-bar)" x="135.3846153846154" y="0" width="0" height="8" fill="#c9d1d9"/>
-                            <rect mask="url(#issues-bar)" x="135.3846153846154" y="0" width="84.61538461538461" height="8" fill="#8957e5"/>
+                            <rect mask="url(#issues-bar)" x="0" y="0" width="125.71428571428571" height="8" fill="#238636"/>
+                            <rect mask="url(#issues-bar)" x="125.71428571428571" y="0" width="0" height="8" fill="#56d364"/>
+                            <rect mask="url(#issues-bar)" x="125.71428571428571" y="0" width="0" height="8" fill="#8B949E"/>
+                            <rect mask="url(#issues-bar)" x="125.71428571428571" y="0" width="0" height="8" fill="#c9d1d9"/>
+                            <rect mask="url(#issues-bar)" x="125.71428571428571" y="0" width="94.28571428571428" height="8" fill="#8957e5"/>
                             <rect mask="url(#issues-bar)" x="220" y="0" width="0" height="8" fill="#d2a8ff"/>
                             <rect mask="url(#issues-bar)" x="220" y="0" width="0" height="8" fill="#8B949E"/>
                             <rect mask="url(#issues-bar)" x="220" y="0" width="0" height="8" fill="#c9d1d9"/>
@@ -250,7 +250,7 @@
                                     <path fill="#8957e5" d="M11.28 6.78a.75.75 0 00-1.06-1.06L7.25 8.69 5.78 7.22a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l3.5-3.5z"/>
                                     <path fill="#8957e5" fill-rule="evenodd" d="M16 8A8 8 0 110 8a8 8 0 0116 0zm-1.5 0a6.5 6.5 0 11-13 0 6.5 6.5 0 0113 0z"/>
                                 </svg>
-                                <span class="no-wrap">5 <small>closed</small></span>
+                                <span class="no-wrap">6 <small>closed</small></span>
                             </div>
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -273,14 +273,14 @@
                                 <rect x="0" y="0" width="220" height="8" fill="white" rx="5"/>
                             </mask>
                             <rect mask="url(#pr-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                            <rect mask="url(#issues-bar)" x="0" y="0" width="5.9459459459459465" height="8" fill="#238636"/>
-                            <rect mask="url(#issues-bar)" x="5.9459459459459465" y="0" width="0" height="8" fill="#56d364"/>
-                            <rect mask="url(#issues-bar)" x="5.9459459459459465" y="0" width="0" height="8" fill="#8B949E"/>
-                            <rect mask="url(#issues-bar)" x="5.9459459459459465" y="0" width="0" height="8" fill="#c9d1d9"/>
-                            <rect mask="url(#issues-bar)" x="5.9459459459459465" y="0" width="23.783783783783786" height="8" fill="#da3633"/>
-                            <rect mask="url(#issues-bar)" x="29.729729729729733" y="0" width="0" height="8" fill="#ff7b72"/>
-                            <rect mask="url(#issues-bar)" x="29.729729729729733" y="0" width="190.2702702702703" height="8" fill="#8957e5"/>
-                            <rect mask="url(#issues-bar)" x="220.00000000000003" y="0" width="0" height="8" fill="#d2a8ff"/>
+                            <rect mask="url(#issues-bar)" x="0" y="0" width="5.789473684210526" height="8" fill="#238636"/>
+                            <rect mask="url(#issues-bar)" x="5.789473684210526" y="0" width="0" height="8" fill="#56d364"/>
+                            <rect mask="url(#issues-bar)" x="5.789473684210526" y="0" width="0" height="8" fill="#8B949E"/>
+                            <rect mask="url(#issues-bar)" x="5.789473684210526" y="0" width="0" height="8" fill="#c9d1d9"/>
+                            <rect mask="url(#issues-bar)" x="5.789473684210526" y="0" width="23.157894736842103" height="8" fill="#da3633"/>
+                            <rect mask="url(#issues-bar)" x="28.94736842105263" y="0" width="0" height="8" fill="#ff7b72"/>
+                            <rect mask="url(#issues-bar)" x="28.94736842105263" y="0" width="191.05263157894737" height="8" fill="#8957e5"/>
+                            <rect mask="url(#issues-bar)" x="220" y="0" width="0" height="8" fill="#d2a8ff"/>
                         </svg>
                         <div class="followup legend field fill-width">
                             <div class="field">
@@ -293,7 +293,7 @@
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                     <path fill="#8957e5" fill-rule="evenodd" d="M5 3.254V3.25v.005a.75.75 0 110-.005v.004zm.45 1.9a2.25 2.25 0 10-1.95.218v5.256a2.25 2.25 0 101.5 0V7.123A5.735 5.735 0 009.25 9h1.378a2.251 2.251 0 100-1.5H9.25a4.25 4.25 0 01-3.8-2.346zM12.75 9a.75.75 0 100-1.5.75.75 0 000 1.5zm-8.5 4.5a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
                                 </svg>
-                                <span class="no-wrap">32 <small>merged</small></span>
+                                <span class="no-wrap">33 <small>merged</small></span>
                             </div>
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -327,14 +327,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="448.41545679423314" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="448.41545679423314" y="0" width="6.756464349893589" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="455.17192114412677" y="0" width="3.052360936114803" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="458.22428208024155" y="0" width="1.3956772396877932" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="459.61995931992936" y="0" width="0.23742750311291813" height="8" fill="#00B4AB"/>
-                    <rect mask="url(#languages-bar)" x="459.85738682304225" y="0" width="0.09349359399159192" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="459.95088041703383" y="0" width="0.03048690077601318" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="459.9813673178099" y="0" width="0.018632682190139294" height="8" fill="#C1F12E"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="448.29180531714604" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="448.29180531714604" y="0" width="6.881447179575686" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="455.1732524967217" y="0" width="3.051519241359114" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="458.2247717380808" y="0" width="1.3952923788414298" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="459.6200641169222" y="0" width="0.23736203199452513" height="8" fill="#00B4AB"/>
+                    <rect mask="url(#languages-bar)" x="459.8574261489168" y="0" width="0.09346781294229917" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="459.95089396185904" y="0" width="0.030478493950923533" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="459.98137245580995" y="0" width="0.01862754419001018" height="8" fill="#C1F12E"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -347,7 +347,7 @@
                             </div>
                             <small>
                                 <div>69.2 MB</div>
-                                <div>97.48%</div>
+                                <div>97.45%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -396,8 +396,8 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>1.04 MB</div>
-                                <div>1.47%</div>
+                                <div>1.06 MB</div>
+                                <div>1.5%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -826,6 +826,7 @@
                                 <g transform="translate(585, 0)">
                                     <rect class="day" x="0" y="4" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="19" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="34" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </g>
                         </svg>
@@ -845,358 +846,86 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M1.5 2.75a.25.25 0 01.25-.25h12.5a.25.25 0 01.25.25v8.5a.25.25 0 01-.25.25h-6.5a.75.75 0 00-.53.22L4.5 14.44v-2.19a.75.75 0 00-.75-.75h-2a.25.25 0 01-.25-.25v-8.5zM1.75 1A1.75 1.75 0 000 2.75v8.5C0 12.216.784 13 1.75 13H3v1.543a1.457 1.457 0 002.487 1.03L8.061 13h6.189A1.75 1.75 0 0016 11.25v-8.5A1.75 1.75 0 0014.25 1H1.75zm5.03 3.47a.75.75 0 010 1.06L5.31 7l1.47 1.47a.75.75 0 01-1.06 1.06l-2-2a.75.75 0 010-1.06l2-2a.75.75 0 011.06 0zm2.44 0a.75.75 0 000 1.06L10.69 7 9.22 8.47a.75.75 0 001.06 1.06l2-2a.75.75 0 000-1.06l-2-2a.75.75 0 00-1.06 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#33 Develop</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by zxzinn in <span class="repo">zxzinn/vercel-ai-sdk-practices</span></div>
+                                    <div class="comment">@coderabbitai
+When I said create issue, I mean create both on Github and Linear(using MCP), keep this in mind, thank you.</div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.5 1.75a.25.25 0 01.25-.25h8.5a.25.25 0 01.25.25v7.736a.75.75 0 101.5 0V1.75A1.75 1.75 0 0011.25 0h-8.5A1.75 1.75 0 001 1.75v11.5c0 .966.784 1.75 1.75 1.75h3.17a.75.75 0 000-1.5H2.75a.25.25 0 01-.25-.25V1.75zM4.75 4a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5zM4 7.75A.75.75 0 014.75 7h2a.75.75 0 010 1.5h-2A.75.75 0 014 7.75zm11.774 3.537a.75.75 0 00-1.048-1.074L10.7 14.145 9.281 12.72a.75.75 0 00-1.062 1.058l1.943 1.95a.75.75 0 001.055.008l4.557-4.45z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Reviewed
+                                        <span class="issue">#33 Develop</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened  in <span class="repo">zxzinn/vercel-ai-sdk-practices</span></div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M1.5 2.75a.25.25 0 01.25-.25h12.5a.25.25 0 01.25.25v8.5a.25.25 0 01-.25.25h-6.5a.75.75 0 00-.53.22L4.5 14.44v-2.19a.75.75 0 00-.75-.75h-2a.25.25 0 01-.25-.25v-8.5zM1.75 1A1.75 1.75 0 000 2.75v8.5C0 12.216.784 13 1.75 13H3v1.543a1.457 1.457 0 002.487 1.03L8.061 13h6.189A1.75 1.75 0 0016 11.25v-8.5A1.75 1.75 0 0014.25 1H1.75zm5.03 3.47a.75.75 0 010 1.06L5.31 7l1.47 1.47a.75.75 0 01-1.06 1.06l-2-2a.75.75 0 010-1.06l2-2a.75.75 0 011.06 0zm2.44 0a.75.75 0 000 1.06L10.69 7 9.22 8.47a.75.75 0 001.06 1.06l2-2a.75.75 0 000-1.06l-2-2a.75.75 0 00-1.06 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#33 Develop</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by zxzinn in <span class="repo">zxzinn/vercel-ai-sdk-practices</span></div>
+                                    <div class="comment">@coderabbitai
+Create issue of this, I will resolve this in the future.</div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.5 1.75a.25.25 0 01.25-.25h8.5a.25.25 0 01.25.25v7.736a.75.75 0 101.5 0V1.75A1.75 1.75 0 0011.25 0h-8.5A1.75 1.75 0 001 1.75v11.5c0 .966.784 1.75 1.75 1.75h3.17a.75.75 0 000-1.5H2.75a.25.25 0 01-.25-.25V1.75zM4.75 4a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5zM4 7.75A.75.75 0 014.75 7h2a.75.75 0 010 1.5h-2A.75.75 0 014 7.75zm11.774 3.537a.75.75 0 00-1.048-1.074L10.7 14.145 9.281 12.72a.75.75 0 00-1.062 1.058l1.943 1.95a.75.75 0 001.055.008l4.557-4.45z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Reviewed
+                                        <span class="issue">#33 Develop</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened  in <span class="repo">zxzinn/vercel-ai-sdk-practices</span></div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 2 commits in
+                                        Pushed 1 commit in
                                         <span class="repo">zxzinn/vercel-ai-sdk-practices</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
+                                    <div>on branch <span class="code">develop</span></div>
                                     <div class="commit">
-                                        <div class="sha">#64f3c5f</div>
-                                        <div class="message">Merge pull request #25 from zxzinn/develop
-
-Update README roadmap: mark Exa API as complete, add RAG and new feat…</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8496817</div>
-                                        <div class="message">Update README roadmap: mark Exa API as complete, add RAG and new feature items</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Merged
-                                        <span class="issue">#25 Update README roadmap: mark Exa API as complete, add RAG and new feat…</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div> in <span class="repo">zxzinn/vercel-ai-sdk-practices</span></div>
-                                    <div>1 file changed <span class="code">++9 --1</span></div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#25 Update README roadmap: mark Exa API as complete, add RAG and new feat…</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by zxzinn in <span class="repo">zxzinn/vercel-ai-sdk-practices</span></div>
-                                    <div class="comment">
-                                        <i>
-                                            Tip
-For best results, initiate chat on the files or code changes.
-@zxzinn Absolutely! You're right - I should check for duplicates in Linear as well before creating new Linear issues. I'll make sure to use the Linear MCP to list existing issues first to avoid duplicates on both platforms.
-My updated workflow will now be:
-
-✅ Check existing GitHub issues with
-                                            <code>gh issue list</code>
-                                            before creating new ones
-✅ Check existing Linear issues using
-                                            <code>external_tools_search</code>
-                                            to list issues in the team before creating new ones
-✅ Use Linear MCP (external_tools_search) for all Linear operations instead of CLI
-✅ Create both GitHub and Linear issues simultaneously when requested
-✅ Always link the issues together properly
-
-Thank you for the feedback - this ensures we maintain clean issue tracking on both platforms without any duplicates!
-✏️ Learnings added
-                                            <code class="language-multiline" xml:space="preserve">Learnt from: zxzinn
-URL: https://github.com/zxzinn/vercel-ai-sdk-practices/pull/25
-<span class="token trimmed">(3 more lines were trimmed)</span></code>
-                                            <i>Note: Learnings are effective only in the context of similar code segments. To apply general coding guidelines, please configure review instructions. You can manage existing learnings in the app.</i>
-                                            🧠 Learnings used
-                                        </i>
-                                        @coderabbitai
-Now try to remove the duplicated issues on linear, thank you.
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#25 Update README roadmap: mark Exa API as complete, add RAG and new feat…</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by zxzinn in <span class="repo">zxzinn/vercel-ai-sdk-practices</span></div>
-                                    <div class="comment">
-                                        <i>
-                                            Tip
-For best results, initiate chat on the files or code changes.
-🧩 Analysis chain
-@zxzinn I apologize for creating duplicate issues! Let me first check for existing issues and clean up any duplicates, then use the Linear MCP properly.
-🏁 Script executed:
-                                            <code class="language-multiline" xml:space="preserve">#!/bin/bash
-# Check existing GitHub issues to identify duplicates
-<span class="token trimmed">(6 more lines were trimmed)</span></code>
-                                            Length of output: 1829
-🔍 Additional research query:
-                                            <code>List all issues in the SPA team to check for any existing similar issues before creating new ones</code>
-                                            💡 Result:
-No issues found for team "SPA" — the SPA team currently has 0 issues.
-I can see the duplicate issues! Issues #21, #22, and #23 are duplicates of the newer issues #26, #27, and #28. Let me close the older duplicates and then create the Linear issues properly.
-Now let me create the Linear issues using the MCP and link them to the GitHub issues:
-🏁 Script executed:
-                                            <code class="language-multiline" xml:space="preserve">#!/bin/bash
-# Close the duplicate GitHub issues (older ones)
-<span class="token trimmed">(7 more lines were trimmed)</span></code>
-                                            Length of output: 346
-🔍 Additional research query:
-                                            <code class="language-multiline" xml:space="preserve">Create a new issue in the SPA team with title "Implement Bing Search API integration" and description "Add Bing Search API support to the search engine integration features.
-
-<span class="token trimmed">(12 more lines were trimmed)</span></code>
-                                            💡 Result:
-Created issue SPA-15: Implement Bing Search API integration
-Details: https://linear.app/spathodea/issue/SPA-15/implement-bing-search-api-integration
-🔍 Additional research query:
-                                            <code class="language-multiline" xml:space="preserve">Create a new issue in the SPA team with title "Implement Perplexity API integration" and description "Add Perplexity API support to the search engine integration features.
-
-<span class="token trimmed">(12 more lines were trimmed)</span></code>
-                                            💡 Result:
-Issue created.
-Summary:
-
-Title: Implement Perplexity API integration
-ID: SPA-14
-URL: https://linear.app/spathodea/issue/SPA-14/implement-perplexity-api-integration
-
-🔍 Additional research query:
-                                            <code class="language-multiline" xml:space="preserve">Create a new issue in the SPA team with title "Implement Google Search API integration" and description "Add Google Search API support to the search engine integration features.
-
-<span class="token trimmed">(12 more lines were trimmed)</span></code>
-                                            💡 Result:
-Issue created successfully.
-Issue ID: SPA-16 Title: Implement Google Search API integration URL: https://linear.app/spathodea/issue/SPA-16/implement-google-search-api-integration
-🔍 Additional research query:
-                                            <code class="language-multiline" xml:space="preserve">Create a new issue in the SPA team with title "Implement Naive RAG" and description "Implement Naive RAG (Retrieval-Augmented Generation) functionality.
-
-<span class="token trimmed">(12 more lines were trimmed)</span></code>
-                                            💡 Result:
-Issue created: SPA-12 — Implement Naive RAG
-Link: https://linear.app/spathodea/issue/SPA-12/implement-naive-rag
-Sources:
-🔍 Additional research query:
-                                            <code class="language-multiline" xml:space="preserve">Create a new issue in the SPA team with title "Implement DeepResearch feature" and description "Implement DeepResearch functionality.
-
-<span class="token trimmed">(12 more lines were trimmed)</span></code>
-                                            💡 Result:
-Issue created: SPA-10 — Implement DeepResearch feature
-https://linear.app/spathodea/issue/SPA-10/implement-deepresearch-feature
-🔍 Additional research query:
-                                            <code class="language-multiline" xml:space="preserve">Create a new issue in the SPA team with title "Implement Image Generation feature" and description "Implement Image Generation functionality.
-
-<span class="token trimmed">(12 more lines were trimmed)</span></code>
-                                            💡 Result:
-Issue created: SPA-11 — Implement Image Generation feature
-Details:
-
-URL: https://linear.app/spathodea/issue/SPA-11/implement-image-generation-feature
-Branch: zhaoxinzhang0429/spa-11-implement-image-generation-feature
-
-🔍 Additional research query:
-                                            <code class="language-multiline" xml:space="preserve">Create a new issue in the SPA team with title "Implement Voice Input feature" and description "Implement Voice Input functionality.
-
-<span class="token trimmed">(12 more lines were trimmed)</span></code>
-                                            💡 Result:
-                                            <b>Issue created</b>
-                                            Title: Implement Voice Input feature ID: SPA-13 URL: https://linear.app/spathodea/issue/SPA-13/implement-voice-input-feature
-Perfect! I've successfully cleaned up the duplicates and created all the Linear issues using the MCP. Here's the complete summary:
-                                            <b>✅ Cleanup Completed:</b>
-                                            Closed Duplicate GitHub Issues:
-
-Implement Bing Search API Integration #21 - Implement Bing Search API Integration (closed as duplicate of Implement Bing Search API integration #26)
-Implement Perplexity API Search Integration #22 - Implement Perplexity API Search Integration (closed as duplicate of Implement Perplexity API integration #27)
-Implement Google Search API Integration #23 - Implement Google Search API Integration (closed as duplicate of Implement Google Search API integration #28)
-                                            <b>🔗 GitHub Issues ↔ Linear Issues Linked:</b>
-                                            🔍 Search Engine Integration:
-
-GitHub #26 ↔ Linear SPA-15 - Implement Bing Search API integration
-GitHub #27 ↔ Linear SPA-14 - Implement Perplexity API integration
-GitHub #28 ↔ Linear SPA-16 - Implement Google Search API integration
-
-🧠 RAG:
-
-GitHub #29 ↔ Linear SPA-12 - Implement Naive RAG
-
-⚡ Features:
-
-GitHub #30 ↔ Linear SPA-10 - Implement DeepResearch feature
-GitHub #31 ↔ Linear SPA-11 - Implement Image Generation feature
-GitHub #32 ↔ Linear SPA-13 - Implement Voice Input feature
-
-I've noted your feedback about always checking for existing issues first and using the Linear MCP instead of CLI. Going forward, I'll make sure to:
-
-✅ Check existing issues with
-                                            <code>gh issue list</code>
-                                            before creating new ones
-✅ Use Linear MCP (external_tools_search) for all Linear operations
-✅ Create both GitHub and Linear issues simultaneously when requested
-✅ Always link the issues together properly
-
-Thank you for the correction - this workflow is much cleaner and avoids duplicates!
-✏️ Learnings added
-                                            <code class="language-multiline" xml:space="preserve">Learnt from: zxzinn
-URL: https://github.com/zxzinn/vercel-ai-sdk-practices/pull/25
-<span class="token trimmed">(3 more lines were trimmed)</span></code>
-                                            <code class="language-multiline" xml:space="preserve">Learnt from: zxzinn
-URL: https://github.com/zxzinn/vercel-ai-sdk-practices/pull/25
-<span class="token trimmed">(3 more lines were trimmed)</span></code>
-                                            <code class="language-multiline" xml:space="preserve">Learnt from: zxzinn
-URL: https://github.com/zxzinn/vercel-ai-sdk-practices/pull/25
-<span class="token trimmed">(3 more lines were trimmed)</span></code>
-                                            <code class="language-multiline" xml:space="preserve">Learnt from: zxzinn
-URL: https://github.com/zxzinn/vercel-ai-sdk-practices/pull/25
-<span class="token trimmed">(3 more lines were trimmed)</span></code>
-                                            <code class="language-multiline" xml:space="preserve">Learnt from: zxzinn
-URL: https://github.com/zxzinn/vercel-ai-sdk-practices/pull/25
-<span class="token trimmed">(3 more lines were trimmed)</span></code>
-                                            <code class="language-multiline" xml:space="preserve">Learnt from: zxzinn
-URL: https://github.com/zxzinn/vercel-ai-sdk-practices/pull/25
-<span class="token trimmed">(3 more lines were trimmed)</span></code>
-                                            <i>Note: Learnings are effective only in the context of similar code segments. To apply general coding guidelines, please configure review instructions. You can manage existing learnings in the app.</i>
-                                            🧠 Learnings used
-                                        </i>
-                                        @coderabbitai
-Also, when you try to create a Linear issue, check for the duplicate.
-Note this up, thank you.
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#25 Update README roadmap: mark Exa API as complete, add RAG and new feat…</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by zxzinn in <span class="repo">zxzinn/vercel-ai-sdk-practices</span></div>
-                                    <div class="comment">
-                                        <i>
-                                            Tip
-For best results, initiate chat on the files or code changes.
-🧩 Analysis chain
-I'll help you create issues for the planned features on both GitHub and Linear. Let me first examine the README.md file to see what features are planned.
-🏁 Script executed:
-                                            <code class="language-multiline" xml:space="preserve">#!/bin/bash
-# Read the README.md file to identify planned features
-<span class="token trimmed">(1 more line was trimmed)</span></code>
-                                            Length of output: 41
-Let me search for the README file in the repository:
-🏁 Script executed:
-                                            <code class="language-multiline" xml:space="preserve">#!/bin/bash
-# Find README files in the repository
-<span class="token trimmed">(4 more lines were trimmed)</span></code>
-                                            Length of output: 213
-Let me search more thoroughly for documentation files and also check the git history to see if there's information about the README changes:
-🏁 Script executed:
-                                            <code class="language-multiline" xml:space="preserve">#!/bin/bash
-# Search for any documentation files
-<span class="token trimmed">(10 more lines were trimmed)</span></code>
-                                            Length of output: 2849
-Great! I can see that README.md was updated in the latest commit. Let me view the current content of the README.md file:
-🏁 Script executed:
-                                            <code class="language-multiline" xml:space="preserve">#!/bin/bash
-# Show the current README.md content
-<span class="token trimmed">(1 more line was trimmed)</span></code>
-                                            Length of output: 470
-Perfect! I can see the planned features in the README roadmap. I'll create issues for all the unchecked items on both GitHub and Linear platforms.
-Before I create the Linear issues, I need to know which Linear team to use. Let me create the GitHub issues first, then ask about the Linear team:
-🏁 Script executed:
-                                            <code class="language-multiline" xml:space="preserve">#!/bin/bash
-# Create GitHub issues for each planned feature
-<span class="token trimmed">(120 more lines were trimmed)</span></code>
-                                            Length of output: 419
-Excellent! I've successfully created 7 GitHub issues for all the planned features:
-🔍 Search Engine Integration:
-
-#26 - Implement Bing Search API integration
-#27 - Implement Perplexity API integration
-#28 - Implement Google Search API integration
-
-🧠 RAG:
-
-#29 - Implement Naive RAG
-
-Features:
-
-#30 - Implement DeepResearch feature
-#31 - Implement Image Generation feature
-#32 - Implement Voice Input feature
-
-For the Linear issues, I see that you mentioned "Linear Team: SPA" in the instructions. Should I create these issues in the SPA team, or would you prefer a different team?
-🏁 Script executed:
-                                            <code class="language-multiline" xml:space="preserve">#!/bin/bash
-# Create Linear issues for each planned feature in SPA team
-<span class="token trimmed">(134 more lines were trimmed)</span></code>
-                                            Length of output: 322
-@zxzinn I've successfully created all the GitHub issues for your planned features! However, the Linear CLI is not available in this sandbox environment, so I'll need to provide you with the details to create the Linear issues manually.
-                                            <b>✅ GitHub Issues Created:</b>
-                                            🔍 Search Engine Integration:
-
-#26 - Implement Bing Search API integration
-#27 - Implement Perplexity API integration
-#28 - Implement Google Search API integration
-
-🧠 RAG:
-
-#29 - Implement Naive RAG
-
-Features:
-
-#30 - Implement DeepResearch feature
-#31 - Implement Image Generation feature
-#32 - Implement Voice Input feature
-                                            <b>📋 Linear Issues to Create Manually:</b>
-                                            Please create the following 7 issues in your Linear SPA team with these details:
-
-Implement Bing Search API integration
-Implement Perplexity API integration
-Implement Google Search API integration
-Implement Naive RAG
-Implement DeepResearch feature
-Implement Image Generation feature
-Implement Voice Input feature
-
-For each issue, you can use this template:
-                                            <code class="language-multiline" xml:space="preserve">**Feature Category:** [Search Engine Integration/RAG/Features]
-**Status:** Planned
-<span class="token trimmed">(10 more lines were trimmed)</span></code>
-                                            I'll also make sure to remind you in future PR reviews when you've implemented features but forgot to mark them as completed in the README.md roadmap!
-✏️ Learnings added
-                                        </i>
-                                        @coderabbitai
-You've created some duplicated issue on Github, please make sure you check existing issues before creating them.
-Also, when I ask you for creating issues, I mean create both on Github and Linear, and use the Linear MCP not the cli.
-Make sure you've note these things.
-Now close the duplicated issues, and use linear mcp to link the github issues.
+                                        <div class="sha">#519e20e</div>
+                                        <div class="message">Remove comments and unused code: clean up `RAG` types, service methods, and API routes for improved clarity and maintainability.</div>
                                     </div>
                                 </div>
                             </section>
@@ -1244,7 +973,7 @@ Now close the duplicated issues, and use linear mcp to link the github issues.
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5a.75.75 0 00.471.696l2.5 1a.75.75 0 00.557-1.392L8.5 7.742V4.75z"/>
                             </svg>
-                            On 28 Sept 2025, 00:30:33
+                            On 29 Sept 2025, 20:49:34
                         </div>
                     </section>
                 </div>
@@ -1254,16 +983,16 @@ Now close the duplicated issues, and use linear mcp to link the github issues.
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            Add CLAUDE.md to .gitignore
+                            Integrate Exa support: add `exa-js` dependency, implement Exa search tool, and update chat and API routes to enable Exa web search functionality.
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            <span class="code">3321667f</span>
-                            <span class="code">.gitignore</span>
+                            <span class="code">1233c7ae</span>
+                            <span class="code">src/lib/env.ts</span>
                             <span class="code">
-                                <span class="snippet additions">++1</span>
+                                <span class="snippet additions">++4</span>
                                 <span class="snippet deletions">--0</span>
                             </span>
                         </div>
@@ -1272,14 +1001,14 @@ Now close the duplicated issues, and use linear mcp to link the github issues.
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -40,3 +40,4 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">*.tsbuildinfo<br /></span><span class="token prefix unchanged">·</span><span class="token line">next-env.d.ts<br /></span><span class="token prefix unchanged">·</span><span class="token line">.idea<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">CLAUDE.md<br /></span></span>\No newline at end of file</code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -9,6 +9,10 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">   // OpenAI (fallback if not using AI Gateway)<br /></span><span class="token prefix unchanged">·</span><span class="token line">   OPENAI_API_KEY: z.string().optional(),<br /></span><span class="token prefix unchanged">·</span><span class="token line"><br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">   // Web search providers<br /></span><span class="token prefix inserted">+</span><span class="token line">   TAVILY_API_KEY: z.string().optional(),<br /></span><span class="token prefix inserted">+</span><span class="token line">   EXA_API_KEY: z.string().optional(),<br /></span><span class="token prefix inserted">+</span><span class="token line"><br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">   // Node environment<br /></span><span class="token prefix unchanged">·</span><span class="token line">   NODE_ENV: z<br /></span><span class="token prefix unchanged">·</span><span class="token line">     .enum(["development", "production", "test"])</span></span></code>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 30 Sept 2025, 09:28:08 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 1 Oct 2025, 09:46:01 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
