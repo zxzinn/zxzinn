@@ -15,7 +15,7 @@
 
 <div align="center">
 
-![Lines of Code](.github/badges/loc-badge.svg)
+![Hits of Code](https://hitsofcode.com/github/zxzinn/zxzinn?branch=main&label=Lines%20of%20Code)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zxzinn&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true&hide_title=true&hide_rank=true)
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=zxzinn&theme=default&hide_border=true)
