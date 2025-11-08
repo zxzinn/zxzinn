@@ -15,7 +15,7 @@
 
 <div align="center">
 
-![Metrics](./github-metrics.svg)
+![Lines of Code](.github/badges/loc-badge.svg)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zxzinn&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true&hide_title=true&hide_rank=true)
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=zxzinn&theme=default&hide_border=true)
