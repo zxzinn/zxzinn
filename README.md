@@ -11,6 +11,7 @@ Most of what I touch is the unglamorous part of an AI platform: the Celery queue
 - Spent a few weeks chasing a Gunicorn memory leak that turned out to be three separate things stacked on top of each other: a CPython TimerHandle reference, a LlamaIndex `ContextVar`, and an aiohttp session that nobody was closing. Wrote a per-worker memory profiling dashboard so we'd catch the next one faster.
 - Built the MCP integration layer (with OAuth) so customers can plug in their own MCP servers and bind third-party accounts. Wrote a couple of remote MCP servers on Cloudflare Workers (Google Workspace, Analytics). Also built our "Ask AI" surface as a single meta-tool MCP that reflects over our ~300 public API endpoints at runtime, so it picks up new endpoints and schema changes on its own. Non-technical customers can drive the whole platform in natural language without anyone hand-wrapping tools.
 - Rebuilt our Celery setup for at-least-once delivery: `acks_late`, `reject_on_worker_lost`, consolidated the queue topology, moved counters to Redis to get out of DB row-level lock contention.
+- Moved the Celery broker from ElastiCache Redis to Amazon MQ (RabbitMQ, Multi-AZ) in production, mostly to get HA we couldn't get out of a single-AZ Redis. Mapped the consumer protocol differences, ran both brokers in parallel during cutover.
 - Migrated us from Poetry to uv in about a week, after the team had been taking runs at it for six months.
 
 #### LlamaIndex (12+ merged)
