@@ -1,5 +1,8 @@
 ### Chao-Chin (Zach) Chang
 
+<a href="https://github.com/zxzinn/github-stats"><img align="right" src="https://raw.githubusercontent.com/zxzinn/github-stats/generated/overview.svg" width="48%" alt="GitHub stats"></a>
+<a href="https://github.com/zxzinn/github-stats"><img align="right" src="https://raw.githubusercontent.com/zxzinn/github-stats/generated/languages.svg" width="48%" alt="Most used languages"></a>
+
 Backend engineer in Taipei. I work at MaiAgent on the platform behind a bunch of enterprise AI assistants in Taiwan, mostly banks, manufacturers, and government.
 
 Most of what I touch is the unglamorous part of an AI platform: the Celery queue that keeps dropping tasks, the WebSocket layer that falls over at 400 users, the memory leak that takes down Gunicorn workers every few hours, the async ORM call that turns out to be blocking. I've gotten into the habit of reading framework source when something breaks, which is how the LlamaIndex PRs below happened.
