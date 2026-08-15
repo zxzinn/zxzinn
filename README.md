@@ -1,40 +1,40 @@
 ### Chao-Chin (Zach) Chang
 
-<a href="https://github.com/zxzinn/github-stats"><img align="right" src="https://raw.githubusercontent.com/zxzinn/github-stats/generated/overview.svg" width="48%" alt="GitHub stats"></a>
-<a href="https://github.com/zxzinn/github-stats"><img align="right" src="https://raw.githubusercontent.com/zxzinn/github-stats/generated/languages.svg" width="48%" alt="Most used languages"></a>
+**AI Agent Engineer | Acting Technical Lead, AI Platform**
 
-Backend engineer in Taipei. I work at MaiAgent on the platform behind a bunch of enterprise AI assistants in Taiwan, mostly banks, manufacturers, and government.
+AI Agent Engineer at MaiAgent, operating as the hands-on technical lead for the AI platform behind 50+ enterprise customers across finance, manufacturing, and government.
 
-Most of what I touch is the unglamorous part of an AI platform: the Celery queue that keeps dropping tasks, the WebSocket layer that falls over at 400 users, the memory leak that takes down Gunicorn workers every few hours, the async ORM call that turns out to be blocking. I've gotten into the habit of reading framework source when something breaks, which is how the LlamaIndex PRs below happened.
+I lead architecture decisions and implementation across agent runtime, LLM gateway, multi-agent workflows, RAG, streaming APIs, reliability, security, and developer productivity. I tend to work where application code meets framework internals: async execution, queues, memory behavior, database pooling, and production failure modes.
 
-#### Some things I've done at MaiAgent
+#### Selected impact at MaiAgent
 
-- WebSocket layer was capping out around 400 concurrent users. Smart fanout and token batching got it to ~2,000 without throwing more boxes at it.
-- LLM completions p99 sat around 20s under load. Three things turned out to be in play: duplicate cross-service queries, a couple of blocking calls hiding inside an async event loop, and Celery worker lock contention I found in a flamegraph. Got it under 3s.
-- Spent a few weeks chasing a Gunicorn memory leak that turned out to be three separate things stacked on top of each other: a CPython TimerHandle reference, a LlamaIndex `ContextVar`, and an aiohttp session that nobody was closing. Wrote a per-worker memory profiling dashboard so we'd catch the next one faster.
-- Built the MCP integration layer (with OAuth) so customers can plug in their own MCP servers and bind third-party accounts. Wrote a couple of remote MCP servers on Cloudflare Workers (Google Workspace, Analytics). Pushed for MCP internally before leadership was sold on it; once the PoC was working, sales and our SI partners ran with it, and custom MCP development is now an actual line of business.
-- Built our "Ask AI" feature as a single meta-tool MCP that reflects over our ~300 public API endpoints at runtime, so it picks up new endpoints and schema changes on its own. Non-technical customers can drive the whole platform in natural language without anyone hand-wrapping tools.
-- Rebuilt our Celery setup for at-least-once delivery: `acks_late`, `reject_on_worker_lost`, consolidated the queue topology, moved counters to Redis to get out of DB row-level lock contention.
-- Moved the Celery broker from ElastiCache Redis to Amazon MQ (RabbitMQ, Multi-AZ) in production, mostly to get HA we couldn't get out of a single-AZ Redis. Mapped the consumer protocol differences, ran both brokers in parallel during cutover.
-- Migrated us from Poetry to uv in about a week, after the team had been taking runs at it for six months.
+- Led the platform-wide migration from LlamaIndex to LangChain and LangGraph. Consolidated Socket.IO, SSE, and completions onto shared runtime primitives, removing 1,042 lines of legacy streaming orchestration.
+- Designed and built an OpenAI-compatible LLM gateway with multi-provider routing and failover, BYOK credentials, streaming, tool calls, multimodal input, embeddings, billing, and usage observability.
+- Scaled the WebSocket layer from 400 to 2,000 concurrent users and reduced completions P99 from about 20 seconds to under 3 seconds by eliminating duplicate queries, blocking I/O, and worker lock contention.
+- Diagnosed production failures across CPython, LlamaIndex, aiohttp, Sentry, and boto3. Fixed memory leaks, Django ASGI and PgBouncer issues, and rebuilt Celery for at-least-once delivery.
+- Built team-wide engineering guardrails across CI, isolated worktree databases, automated migration repair, code review, and ECS delivery.
 
-#### LlamaIndex (12+ merged)
+#### Open source and developer tooling
 
-A few I'd point at:
+- [cf-gdrive-mcp](https://github.com/zxzinn/cf-gdrive-mcp): A remote MCP server on Cloudflare Workers with Google OAuth. Built before joining MaiAgent, it became the foundation of MaiAgent's production Workspace MCP.
+- [django-makemessages-rs](https://github.com/zxzinn/django-makemessages-rs): A Rust replacement for Django makemessages that reduced extraction from over 20 seconds to under one second with byte-identical PO output. It now runs in MaiAgent's pre-commit and CI workflows.
+- [djangorestframework-camel-case](https://github.com/zxzinn/djangorestframework-camel-case): Added native async middleware after tracing production CurrentThreadExecutor failures to one sync-only middleware collapsing Django's ASGI chain.
+- [neon-selfhost](https://github.com/zxzinn/neon-selfhost): A Go CLI and Helm chart for self-hosted, copy-on-write Postgres branching across Docker and Kubernetes.
+- [django-channels-jwt-stateless](https://github.com/zxzinn/django-channels-jwt-stateless): Stateless JWT authentication middleware for Django Channels with zero database queries during WebSocket handshakes.
+- [opencti-mcp](https://github.com/zxzinn/opencti-mcp): An MCP server for querying OpenCTI threat intelligence, with 40 stars and 18 forks.
 
-- [#20389](https://github.com/run-llama/llama_index/pull/20389), `early_stopping_method` on agent workflows
-- [#20503](https://github.com/run-llama/llama_index/pull/20503), configurable `empty_response_message` in synthesizers
-- [#20082](https://github.com/run-llama/llama_index/pull/20082), MCP tool JSON schema parser, broke Composio
-- [#20355](https://github.com/run-llama/llama_index/pull/20355), Bedrock reasoning model thinking blocks
-- [#20463](https://github.com/run-llama/llama_index/pull/20463), `close` / `aclose` on the OpenSearch vector store
+#### Upstream contributions
 
-[everything](https://github.com/run-llama/llama_index/pulls?q=is%3Apr+author%3Azxzinn+is%3Amerged)
+- [LlamaIndex](https://github.com/run-llama/llama_index/pulls?q=is%3Apr+author%3Azxzinn+is%3Amerged): 12+ merged PRs across agent workflows, MCP schema parsing, Bedrock reasoning models, retry behavior, and OpenSearch resource cleanup.
+- [OpenTelemetry JS PR 6215](https://github.com/open-telemetry/opentelemetry-js/pull/6215): Fixed misleading gRPC exporter documentation after tracing a local TLS failure through framework internals.
 
-#### Other
+#### Contact
 
-- OpenTelemetry JS, [#6215](https://github.com/open-telemetry/opentelemetry-js/pull/6215), chasing a misleading TLS error in their gRPC exporter docs
-- Threatcado XDR before MaiAgent, building security analysis agents on logs
+[LinkedIn](https://www.linkedin.com/in/zxzinn/) · [Email](mailto:zhaoxinzhang0429@gmail.com)
 
-#### Reach
-
-zhaoxinzhang0429@gmail.com, [LinkedIn](https://linkedin.com/in/zxzinn)
+<details>
+<summary>GitHub statistics</summary>
+<br>
+<a href="https://github.com/zxzinn/github-stats"><img src="https://raw.githubusercontent.com/zxzinn/github-stats/generated/overview.svg" width="49%" alt="GitHub stats"></a>
+<a href="https://github.com/zxzinn/github-stats"><img src="https://raw.githubusercontent.com/zxzinn/github-stats/generated/languages.svg" width="49%" alt="Most used languages"></a>
+</details>
