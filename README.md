@@ -1,10 +1,10 @@
 ### Chao-Chin (Zach) Chang
 
-**AI Agent Engineer | Acting Technical Lead, AI Platform**
+**AI Agent Engineer | Agent Infrastructure & Developer Tooling**
 
-AI Agent Engineer at MaiAgent, operating as the hands-on technical lead for the AI platform behind 50+ enterprise customers across finance, manufacturing, and government.
+I build AI agent infrastructure, developer tools, and open-source systems across agent runtimes, LLM gateways, multi-agent workflows, RAG, streaming APIs, reliability, security, and developer productivity. I tend to work where application code meets framework internals: async execution, queues, memory behavior, database pooling, and production failure modes.
 
-I lead architecture decisions and implementation across agent runtime, LLM gateway, multi-agent workflows, RAG, streaming APIs, reliability, security, and developer productivity. I tend to work where application code meets framework internals: async execution, queues, memory behavior, database pooling, and production failure modes.
+Previously, I was an AI Agent Engineer and hands-on technical lead at MaiAgent, where I worked on the AI platform behind 50+ enterprise customers across finance, manufacturing, and government.
 
 #### Selected impact at MaiAgent
 
@@ -17,7 +17,7 @@ I lead architecture decisions and implementation across agent runtime, LLM gatew
 #### Open source and developer tooling
 
 - [cf-gdrive-mcp](https://github.com/zxzinn/cf-gdrive-mcp): A remote MCP server on Cloudflare Workers with Google OAuth. Built before joining MaiAgent, it became the foundation of MaiAgent's production Workspace MCP.
-- [django-makemessages-rs](https://github.com/zxzinn/django-makemessages-rs): A Rust replacement for Django makemessages that reduced extraction from over 20 seconds to under one second with byte-identical PO output. It now runs in MaiAgent's pre-commit and CI workflows.
+- [django-makemessages-rs](https://github.com/zxzinn/django-makemessages-rs): A Rust replacement for Django makemessages that reduced extraction from over 20 seconds to under one second with byte-identical PO output. It was adopted in MaiAgent's pre-commit and CI workflows.
 - [djangorestframework-camel-case](https://github.com/zxzinn/djangorestframework-camel-case): Added native async middleware after tracing production CurrentThreadExecutor failures to one sync-only middleware collapsing Django's ASGI chain.
 - [neon-selfhost](https://github.com/zxzinn/neon-selfhost): A Go CLI and Helm chart for self-hosted, copy-on-write Postgres branching across Docker and Kubernetes.
 - [django-channels-jwt-stateless](https://github.com/zxzinn/django-channels-jwt-stateless): Stateless JWT authentication middleware for Django Channels with zero database queries during WebSocket handshakes.
