@@ -1,0 +1,138 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="576" viewBox="0 0 1200 576" fill="none">
+<style>
+  .sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif; }
+  .mono { font-family: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace; }
+  .flow { stroke-dasharray: 3 7; animation: flow 1.6s linear infinite; }
+  .blink { animation: blink 1.1s steps(1) infinite; }
+  .pulse { animation: pulse 2.4s ease-in-out infinite; }
+  @keyframes flow { to { stroke-dashoffset: -20; } }
+  @keyframes blink { 50% { opacity: 0; } }
+  @keyframes pulse { 0%, 100% { opacity: 0.35; } 50% { opacity: 1; } }
+  
+  @media (prefers-reduced-motion: reduce) { .flow, .blink, .pulse { animation: none; } }
+</style>
+<rect x="0.5" y="0.5" width="1199" height="575" rx="12" fill="#161b22" stroke="#30363d"/>
+<defs>
+  <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+    <path d="M24 0H0V24" stroke="#1b222c" stroke-width="1"/>
+  </pattern>
+  <linearGradient id="grid-fade" x1="0" x2="1" y1="0" y2="0">
+    <stop offset="0" stop-color="#161b22" stop-opacity="1"/>
+    <stop offset="0.45" stop-color="#161b22" stop-opacity="0.6"/>
+    <stop offset="1" stop-color="#161b22" stop-opacity="0"/>
+  </linearGradient>
+</defs>
+<rect x="1" y="1" width="1198" height="574" rx="11" fill="url(#grid)" opacity="0.7"/>
+<circle cx="48" cy="45" r="5" fill="#4f8ff7" class="pulse"/>
+<text x="62" y="49" class="mono" font-size="12" letter-spacing="1.5" fill="#4f8ff7">NOW</text>
+<text x="40" y="80" class="sans" font-size="22" font-weight="700" fill="#e6edf3">A ReBAC-native enterprise AI platform, on-prem first</text>
+<text x="1160" y="49" class="mono" font-size="12" letter-spacing="0.5" fill="#8b949e" text-anchor="end">STACK ONLY · PRODUCT UNDISCLOSED</text>
+<path d="M338.66666666666663 156 C338.66666666666663 167 338.66666666666663 167 338.66666666666663 178" stroke="#484f58" stroke-width="1.2"/>
+<path d="M338.66666666666663 156 C338.66666666666663 167 338.66666666666663 167 338.66666666666663 178" stroke="#4f8ff7" stroke-width="1.6" class="flow" style="animation-delay:0s"/>
+<path d="M670 156 C670 167 670 167 670 178" stroke="#484f58" stroke-width="1.2"/>
+<path d="M670 156 C670 167 670 167 670 178" stroke="#4f8ff7" stroke-width="1.6" class="flow" style="animation-delay:-0.4s"/>
+<path d="M1001.3333333333333 156 C1001.3333333333333 167 1001.3333333333333 167 1001.3333333333333 178" stroke="#484f58" stroke-width="1.2"/>
+<path d="M1001.3333333333333 156 C1001.3333333333333 167 1001.3333333333333 167 1001.3333333333333 178" stroke="#4f8ff7" stroke-width="1.6" class="flow" style="animation-delay:-0.8s"/>
+<path d="M338.66666666666663 230 C338.66666666666663 241 297.25 241 297.25 252" stroke="#484f58" stroke-width="1.2"/>
+<path d="M338.66666666666663 230 C338.66666666666663 241 297.25 241 297.25 252" stroke="#4f8ff7" stroke-width="1.6" class="flow" style="animation-delay:-1.4000000000000001s"/>
+<path d="M670 230 C670 241 545.75 241 545.75 252" stroke="#484f58" stroke-width="1.2"/>
+<path d="M670 230 C670 241 545.75 241 545.75 252" stroke="#4f8ff7" stroke-width="1.6" class="flow" style="animation-delay:-0.19999999999999996s"/>
+<path d="M1001.3333333333333 230 C1001.3333333333333 241 1042.75 241 1042.75 252" stroke="#484f58" stroke-width="1.2"/>
+<path d="M1001.3333333333333 230 C1001.3333333333333 241 1042.75 241 1042.75 252" stroke="#4f8ff7" stroke-width="1.6" class="flow" style="animation-delay:-0.6000000000000001s"/>
+<path d="M297.25 304 C297.25 315 297.25 315 297.25 326" stroke="#484f58" stroke-width="1.2"/>
+<path d="M297.25 304 C297.25 315 297.25 315 297.25 326" stroke="#4f8ff7" stroke-width="1.6" class="flow" style="animation-delay:-1.2000000000000002s"/>
+<path d="M545.75 304 C545.75 315 545.75 315 545.75 326" stroke="#484f58" stroke-width="1.2"/>
+<path d="M545.75 304 C545.75 315 545.75 315 545.75 326" stroke="#4f8ff7" stroke-width="1.6" class="flow" style="animation-delay:0s"/>
+<path d="M794.25 304 C794.25 315 794.25 315 794.25 326" stroke="#484f58" stroke-width="1.2"/>
+<path d="M794.25 304 C794.25 315 794.25 315 794.25 326" stroke="#4f8ff7" stroke-width="1.6" class="flow" style="animation-delay:-0.3999999999999999s"/>
+<path d="M1042.75 304 C1042.75 315 1042.75 315 1042.75 326" stroke="#484f58" stroke-width="1.2"/>
+<path d="M1042.75 304 C1042.75 315 1042.75 315 1042.75 326" stroke="#4f8ff7" stroke-width="1.6" class="flow" style="animation-delay:-0.7999999999999998s"/>
+<path d="M297.25 378 C297.25 389 297.25 389 297.25 400" stroke="#484f58" stroke-width="1.2"/>
+<path d="M297.25 378 C297.25 389 297.25 389 297.25 400" stroke="#4f8ff7" stroke-width="1.6" class="flow" style="animation-delay:-1.4000000000000004s"/>
+<path d="M545.75 378 C545.75 389 545.75 389 545.75 400" stroke="#484f58" stroke-width="1.2"/>
+<path d="M545.75 378 C545.75 389 545.75 389 545.75 400" stroke="#4f8ff7" stroke-width="1.6" class="flow" style="animation-delay:-0.19999999999999973s"/>
+<path d="M794.25 378 C794.25 389 794.25 389 794.25 400" stroke="#484f58" stroke-width="1.2"/>
+<path d="M794.25 378 C794.25 389 794.25 389 794.25 400" stroke="#4f8ff7" stroke-width="1.6" class="flow" style="animation-delay:-0.6000000000000001s"/>
+<path d="M1042.75 378 C1042.75 389 1042.75 389 1042.75 400" stroke="#484f58" stroke-width="1.2"/>
+<path d="M1042.75 378 C1042.75 389 1042.75 389 1042.75 400" stroke="#4f8ff7" stroke-width="1.6" class="flow" style="animation-delay:-1.0000000000000004s"/>
+<path d="M297.25 452 C297.25 463 297.25 463 297.25 474" stroke="#484f58" stroke-width="1.2"/>
+<path d="M297.25 452 C297.25 463 297.25 463 297.25 474" stroke="#4f8ff7" stroke-width="1.6" class="flow" style="animation-delay:0s"/>
+<path d="M545.75 452 C545.75 463 545.75 463 545.75 474" stroke="#484f58" stroke-width="1.2"/>
+<path d="M545.75 452 C545.75 463 545.75 463 545.75 474" stroke="#4f8ff7" stroke-width="1.6" class="flow" style="animation-delay:-0.40000000000000036s"/>
+<path d="M794.25 452 C794.25 463 794.25 463 794.25 474" stroke="#484f58" stroke-width="1.2"/>
+<path d="M794.25 452 C794.25 463 794.25 463 794.25 474" stroke="#4f8ff7" stroke-width="1.6" class="flow" style="animation-delay:-0.7999999999999998s"/>
+<path d="M1042.75 452 C1042.75 463 1042.75 463 1042.75 474" stroke="#484f58" stroke-width="1.2"/>
+<path d="M1042.75 452 C1042.75 463 1042.75 463 1042.75 474" stroke="#4f8ff7" stroke-width="1.6" class="flow" style="animation-delay:-1.2000000000000002s"/>
+<text x="40" y="135" class="mono" font-size="11" letter-spacing="1.5" fill="#8b949e">SURFACES</text>
+<rect x="180" y="104" width="317.3333333333333" height="52" rx="8" fill="#0d1117" stroke="#30363d"/>
+<text x="194" y="126" class="sans" font-size="14" font-weight="600" fill="#e6edf3">Customer web app</text>
+<text x="194" y="145" class="mono" font-size="11.5" fill="#8b949e">React · TanStack Router</text>
+<rect x="511.3333333333333" y="104" width="317.3333333333333" height="52" rx="8" fill="#0d1117" stroke="#30363d"/>
+<text x="525.3333333333333" y="126" class="sans" font-size="14" font-weight="600" fill="#e6edf3">Platform admin</text>
+<text x="525.3333333333333" y="145" class="mono" font-size="11.5" fill="#8b949e">separate ops console</text>
+<rect x="842.6666666666666" y="104" width="317.3333333333333" height="52" rx="8" fill="#0d1117" stroke="#30363d"/>
+<text x="856.6666666666666" y="126" class="sans" font-size="14" font-weight="600" fill="#e6edf3">Ops CLI</text>
+<text x="856.6666666666666" y="145" class="mono" font-size="11.5" fill="#8b949e">provisioning · recovery</text>
+<text x="40" y="209" class="mono" font-size="11" letter-spacing="1.5" fill="#8b949e">API</text>
+<rect x="180" y="178" width="317.3333333333333" height="52" rx="8" fill="#0d1117" stroke="#30363d"/>
+<text x="194" y="200" class="sans" font-size="14" font-weight="600" fill="#e6edf3">Typed API</text>
+<text x="194" y="219" class="mono" font-size="11.5" fill="#8b949e">Hono · oRPC · Zod contracts</text>
+<rect x="511.3333333333333" y="178" width="317.3333333333333" height="52" rx="8" fill="#0d1117" stroke="#30363d"/>
+<text x="525.3333333333333" y="200" class="sans" font-size="14" font-weight="600" fill="#e6edf3">Identity</text>
+<text x="525.3333333333333" y="219" class="mono" font-size="11.5" fill="#8b949e">Better Auth · OIDC · SCIM</text>
+<rect x="842.6666666666666" y="178" width="317.3333333333333" height="52" rx="8" fill="#0d1117" stroke="#30363d"/>
+<text x="856.6666666666666" y="200" class="sans" font-size="14" font-weight="600" fill="#e6edf3">Policy gate</text>
+<text x="856.6666666666666" y="219" class="mono" font-size="11.5" fill="#8b949e">per-handler authz manifest</text>
+<text x="40" y="283" class="mono" font-size="11" letter-spacing="1.5" fill="#8b949e">CONTROL</text>
+<rect x="180" y="252" width="234.5" height="52" rx="8" fill="rgba(79,143,247,0.12)" stroke="#4f8ff7"/>
+<text x="194" y="274" class="sans" font-size="14" font-weight="600" fill="#e6edf3">ReBAC authorization</text>
+<text x="194" y="293" class="mono" font-size="11.5" fill="#8b949e">relation graph · causal reads</text>
+<rect x="428.5" y="252" width="234.5" height="52" rx="8" fill="rgba(79,143,247,0.12)" stroke="#4f8ff7"/>
+<text x="442.5" y="274" class="sans" font-size="14" font-weight="600" fill="#e6edf3">Change control</text>
+<text x="442.5" y="293" class="mono" font-size="11.5" fill="#8b949e">sagas · audit · revert</text>
+<rect x="677" y="252" width="234.5" height="52" rx="8" fill="#0d1117" stroke="#30363d"/>
+<text x="691" y="274" class="sans" font-size="14" font-weight="600" fill="#e6edf3">Event backbone</text>
+<text x="691" y="293" class="mono" font-size="11.5" fill="#8b949e">transactional outbox/inbox</text>
+<rect x="925.5" y="252" width="234.5" height="52" rx="8" fill="rgba(79,143,247,0.12)" stroke="#4f8ff7"/>
+<text x="939.5" y="274" class="sans" font-size="14" font-weight="600" fill="#e6edf3">AI gateway</text>
+<text x="939.5" y="293" class="mono" font-size="11.5" fill="#8b949e">routing · policy · budgets</text>
+<text x="40" y="357" class="mono" font-size="11" letter-spacing="1.5" fill="#8b949e">EXECUTION</text>
+<rect x="180" y="326" width="234.5" height="52" rx="8" fill="#0d1117" stroke="#30363d"/>
+<text x="194" y="348" class="sans" font-size="14" font-weight="600" fill="#e6edf3">Workers</text>
+<text x="194" y="367" class="mono" font-size="11.5" fill="#8b949e">BullMQ · projection leases</text>
+<rect x="428.5" y="326" width="234.5" height="52" rx="8" fill="rgba(79,143,247,0.12)" stroke="#4f8ff7"/>
+<text x="442.5" y="348" class="sans" font-size="14" font-weight="600" fill="#e6edf3">Agent sandbox</text>
+<text x="442.5" y="367" class="mono" font-size="11.5" fill="#8b949e">Kata · OpenSandbox</text>
+<rect x="677" y="326" width="234.5" height="52" rx="8" fill="#0d1117" stroke="#30363d"/>
+<text x="691" y="348" class="sans" font-size="14" font-weight="600" fill="#e6edf3">Retrieval</text>
+<text x="691" y="367" class="mono" font-size="11.5" fill="#8b949e">embed · rerank · OCR</text>
+<rect x="925.5" y="326" width="234.5" height="52" rx="8" fill="#0d1117" stroke="#30363d"/>
+<text x="939.5" y="348" class="sans" font-size="14" font-weight="600" fill="#e6edf3">Browser runtime</text>
+<text x="939.5" y="367" class="mono" font-size="11.5" fill="#8b949e">agent browser automation</text>
+<text x="40" y="431" class="mono" font-size="11" letter-spacing="1.5" fill="#8b949e">DATA</text>
+<rect x="180" y="400" width="234.5" height="52" rx="8" fill="#0d1117" stroke="#30363d"/>
+<text x="194" y="422" class="sans" font-size="14" font-weight="600" fill="#e6edf3">PostgreSQL</text>
+<text x="194" y="441" class="mono" font-size="11.5" fill="#8b949e">Drizzle · migrations as code</text>
+<rect x="428.5" y="400" width="234.5" height="52" rx="8" fill="#0d1117" stroke="#30363d"/>
+<text x="442.5" y="422" class="sans" font-size="14" font-weight="600" fill="#e6edf3">Valkey</text>
+<text x="442.5" y="441" class="mono" font-size="11.5" fill="#8b949e">queues · bounded clients</text>
+<rect x="677" y="400" width="234.5" height="52" rx="8" fill="#0d1117" stroke="#30363d"/>
+<text x="691" y="422" class="sans" font-size="14" font-weight="600" fill="#e6edf3">Object storage</text>
+<text x="691" y="441" class="mono" font-size="11.5" fill="#8b949e">S3-compatible</text>
+<rect x="925.5" y="400" width="234.5" height="52" rx="8" fill="#0d1117" stroke="#30363d"/>
+<text x="939.5" y="422" class="sans" font-size="14" font-weight="600" fill="#e6edf3">Vector store</text>
+<text x="939.5" y="441" class="mono" font-size="11.5" fill="#8b949e">embedding index</text>
+<text x="40" y="505" class="mono" font-size="11" letter-spacing="1.5" fill="#8b949e">PLATFORM</text>
+<rect x="180" y="474" width="234.5" height="52" rx="8" fill="#0d1117" stroke="#30363d"/>
+<text x="194" y="496" class="sans" font-size="14" font-weight="600" fill="#e6edf3">Kubernetes</text>
+<text x="194" y="515" class="mono" font-size="11.5" fill="#8b949e">K3s · Helm · Coder</text>
+<rect x="428.5" y="474" width="234.5" height="52" rx="8" fill="#0d1117" stroke="#30363d"/>
+<text x="442.5" y="496" class="sans" font-size="14" font-weight="600" fill="#e6edf3">Cloud</text>
+<text x="442.5" y="515" class="mono" font-size="11.5" fill="#8b949e">Azure · Pulumi · Terraform</text>
+<rect x="677" y="474" width="234.5" height="52" rx="8" fill="#0d1117" stroke="#30363d"/>
+<text x="691" y="496" class="sans" font-size="14" font-weight="600" fill="#e6edf3">On-prem</text>
+<text x="691" y="515" class="mono" font-size="11.5" fill="#8b949e">GPU delivery appliance</text>
+<rect x="925.5" y="474" width="234.5" height="52" rx="8" fill="#0d1117" stroke="#30363d"/>
+<text x="939.5" y="496" class="sans" font-size="14" font-weight="600" fill="#e6edf3">Observability</text>
+<text x="939.5" y="515" class="mono" font-size="11.5" fill="#8b949e">OpenTelemetry · SLOs</text>
+</svg>

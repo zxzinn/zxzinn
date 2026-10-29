@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" fill="none">
+<style>
+  .sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif; }
+  .mono { font-family: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace; }
+  .flow { stroke-dasharray: 3 7; animation: flow 1.6s linear infinite; }
+  .blink { animation: blink 1.1s steps(1) infinite; }
+  .pulse { animation: pulse 2.4s ease-in-out infinite; }
+  @keyframes flow { to { stroke-dashoffset: -20; } }
+  @keyframes blink { 50% { opacity: 0; } }
+  @keyframes pulse { 0%, 100% { opacity: 0.35; } 50% { opacity: 1; } }
+  
+  @media (prefers-reduced-motion: reduce) { .flow, .blink, .pulse { animation: none; } }
+</style>
+<rect x="0.5" y="0.5" width="1199" height="419" rx="12" fill="#161b22" stroke="#30363d"/>
+<text x="40" y="49" class="mono" font-size="12" letter-spacing="1.5" fill="#8b949e">UPSTREAM</text>
+<text x="40" y="80" class="sans" font-size="22" font-weight="700" fill="#e6edf3">Small contributions upstream</text>
+
+<text x="40" y="134" class="mono" font-size="14" fill="#e6edf3">run-llama/llama_index</text>
+<text x="420" y="134" class="mono" font-size="12" fill="#8b949e">★ 52.7k</text>
+<rect x="510" y="118" width="86" height="22" rx="11" fill="rgba(79,143,247,0.12)" stroke="#4f8ff7" stroke-opacity="0.5"/>
+<text x="520" y="133" class="mono" font-size="12" fill="#4f8ff7">11 merged</text>
+<text x="640" y="134" class="sans" font-size="13.5" fill="#8b949e">agent workflows · MCP schemas · Bedrock reasoning · retries</text>
+<line x1="40" y1="156" x2="1160" y2="156" stroke="#30363d"/>
+<text x="40" y="180" class="mono" font-size="14" fill="#e6edf3">modelcontextprotocol/servers</text>
+<text x="420" y="180" class="mono" font-size="12" fill="#8b949e">★ 91.7k</text>
+<rect x="510" y="164" width="78" height="22" rx="11" fill="rgba(79,143,247,0.12)" stroke="#4f8ff7" stroke-opacity="0.5"/>
+<text x="520" y="179" class="mono" font-size="12" fill="#4f8ff7">1 merged</text>
+<text x="640" y="180" class="sans" font-size="13.5" fill="#8b949e">listed the OpenCTI MCP server</text>
+<line x1="40" y1="202" x2="1160" y2="202" stroke="#30363d"/>
+<text x="40" y="226" class="mono" font-size="14" fill="#e6edf3">lightpanda-io/browser</text>
+<text x="420" y="226" class="mono" font-size="12" fill="#8b949e">★ 37.2k</text>
+<rect x="510" y="210" width="78" height="22" rx="11" fill="rgba(79,143,247,0.12)" stroke="#4f8ff7" stroke-opacity="0.5"/>
+<text x="520" y="225" class="mono" font-size="12" fill="#4f8ff7">1 merged</text>
+<text x="640" y="226" class="sans" font-size="13.5" fill="#8b949e">Escape closes the topmost modal dialog</text>
+<line x1="40" y1="248" x2="1160" y2="248" stroke="#30363d"/>
+<text x="40" y="272" class="mono" font-size="14" fill="#e6edf3">open-telemetry/opentelemetry-js</text>
+<text x="420" y="272" class="mono" font-size="12" fill="#8b949e">★ 3.5k</text>
+<rect x="510" y="256" width="78" height="22" rx="11" fill="rgba(79,143,247,0.12)" stroke="#4f8ff7" stroke-opacity="0.5"/>
+<text x="520" y="271" class="mono" font-size="12" fill="#4f8ff7">1 merged</text>
+<text x="640" y="272" class="sans" font-size="13.5" fill="#8b949e">gRPC insecure-connection guidance</text>
+<line x1="40" y1="294" x2="1160" y2="294" stroke="#30363d"/>
+<text x="40" y="318" class="mono" font-size="14" fill="#e6edf3">vercel/ai-elements</text>
+<text x="420" y="318" class="mono" font-size="12" fill="#8b949e">★ 2.5k</text>
+<rect x="510" y="302" width="78" height="22" rx="11" fill="rgba(79,143,247,0.12)" stroke="#4f8ff7" stroke-opacity="0.5"/>
+<text x="520" y="317" class="mono" font-size="12" fill="#4f8ff7">1 merged</text>
+<text x="640" y="318" class="sans" font-size="13.5" fill="#8b949e">prompt input form submission and reset</text>
+<line x1="40" y1="340" x2="1160" y2="340" stroke="#30363d"/>
+<text x="40" y="364" class="mono" font-size="14" fill="#e6edf3">neoforged/NeoForge</text>
+<text x="420" y="364" class="mono" font-size="12" fill="#8b949e">★ 2.1k</text>
+<rect x="510" y="348" width="78" height="22" rx="11" fill="rgba(79,143,247,0.12)" stroke="#4f8ff7" stroke-opacity="0.5"/>
+<text x="520" y="363" class="mono" font-size="12" fill="#4f8ff7">2 merged</text>
+<text x="640" y="364" class="sans" font-size="13.5" fill="#8b949e">FakePlayer criteria-listener memory leak</text>
+</svg>

@@ -1,40 +1,56 @@
-### Chao-Chin (Zach) Chang
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
+  <img alt="Chao-Chin (Zach) Chang — software engineer working on AI platforms and infrastructure" src="assets/hero-light.svg" width="100%">
+</picture>
 
-**AI Agent Engineer | Agent Infrastructure & Developer Tooling**
+I work on AI platforms: agent runtimes, LLM gateways, authorization, sandboxed execution, and the Kubernetes and on-prem infrastructure they run on. I learn the most from the places where application code meets framework internals — async execution, queues, memory behavior, connection pooling — and from production failures I didn't see coming.
 
-I build AI agent infrastructure, developer tools, and open-source systems across agent runtimes, LLM gateways, multi-agent workflows, RAG, streaming APIs, reliability, security, and developer productivity. I tend to work where application code meets framework internals: async execution, queues, memory behavior, database pooling, and production failure modes.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/architecture-dark.svg">
+  <img alt="Architecture of the platform I am building now: surfaces, typed API, ReBAC authorization, change control, event backbone, AI gateway, workers, agent sandbox, retrieval, data stores, and Kubernetes, cloud, and on-prem runtime" src="assets/architecture-light.svg" width="100%">
+</picture>
 
-Previously, I was an AI Agent Engineer and hands-on technical lead at MaiAgent, where I worked on the AI platform behind 50+ enterprise customers across finance, manufacturing, and government.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/metrics-dark.svg">
+  <img alt="1,136 merged PRs, 569 issues, 33 packages, 6 apps, 10 ADRs, and 43 bilingual docs in one private monorepo between August and October 2026" src="assets/metrics-light.svg" width="100%">
+</picture>
 
-#### Selected impact at MaiAgent
+Some of the problems I've been working through on this project:
 
-- Led the platform-wide migration from LlamaIndex to LangChain and LangGraph. Consolidated Socket.IO, SSE, and completions onto shared runtime primitives, removing 1,042 lines of legacy streaming orchestration.
-- Designed and built an OpenAI-compatible LLM gateway with multi-provider routing and failover, BYOK credentials, streaming, tool calls, multimodal input, embeddings, billing, and usage observability.
-- Scaled the WebSocket layer from 400 to 2,000 concurrent users and reduced completions P99 from about 20 seconds to under 3 seconds by eliminating duplicate queries, blocking I/O, and worker lock contention.
-- Diagnosed production failures across CPython, LlamaIndex, aiohttp, Sentry, and boto3. Fixed memory leaks, Django ASGI and PgBouncer issues, and rebuilt Celery for at-least-once delivery.
-- Built team-wide engineering guardrails across CI, isolated worktree databases, automated migration repair, code review, and ECS delivery.
+- **Relationship-based access control.** Domain facts stay in PostgreSQL and are projected into a ReBAC graph by a background worker. Checks fail closed until a membership change has been applied, so users read their own writes without every check paying for full consistency.
+- **Recording every change.** Mutations run as typed transactions or recoverable sagas, with idempotency keys, before/after snapshots, an append-only audit log, and revert plans that stop when the current state has drifted.
+- **Letting tooling catch mistakes.** Repository checks cover per-handler authorization policy, database access ownership, bounded request I/O, and migration safety. I try to treat a fix as done only after the affected path has actually run.
 
-#### Open source and developer tooling
-
-- [cf-gdrive-mcp](https://github.com/zxzinn/cf-gdrive-mcp): A remote MCP server on Cloudflare Workers with Google OAuth. Built before joining MaiAgent, it became the foundation of MaiAgent's production Workspace MCP.
-- [django-makemessages-rs](https://github.com/zxzinn/django-makemessages-rs): A Rust replacement for Django makemessages that reduced extraction from over 20 seconds to under one second with byte-identical PO output. It was adopted in MaiAgent's pre-commit and CI workflows.
-- [djangorestframework-camel-case](https://github.com/zxzinn/djangorestframework-camel-case): Added native async middleware after tracing production CurrentThreadExecutor failures to one sync-only middleware collapsing Django's ASGI chain.
-- [neon-selfhost](https://github.com/zxzinn/neon-selfhost): A Go CLI and Helm chart for self-hosted, copy-on-write Postgres branching across Docker and Kubernetes.
-- [django-channels-jwt-stateless](https://github.com/zxzinn/django-channels-jwt-stateless): Stateless JWT authentication middleware for Django Channels with zero database queries during WebSocket handshakes.
-- [opencti-mcp](https://github.com/zxzinn/opencti-mcp): An MCP server for querying OpenCTI threat intelligence, with 40 stars and 18 forks.
-
-#### Upstream contributions
-
-- [LlamaIndex](https://github.com/run-llama/llama_index/pulls?q=is%3Apr+author%3Azxzinn+is%3Amerged): 12+ merged PRs across agent workflows, MCP schema parsing, Bedrock reasoning models, retry behavior, and OpenSearch resource cleanup.
-- [OpenTelemetry JS PR 6215](https://github.com/open-telemetry/opentelemetry-js/pull/6215): Fixed misleading gRPC exporter documentation after tracing a local TLS failure through framework internals.
-
-#### Contact
-
-[LinkedIn](https://www.linkedin.com/in/zxzinn/) · [Email](mailto:zhaoxinzhang0429@gmail.com)
-
-<details>
-<summary>GitHub statistics</summary>
 <br>
-<a href="https://github.com/zxzinn/github-stats"><img src="https://raw.githubusercontent.com/zxzinn/github-stats/generated/overview.svg" width="49%" alt="GitHub stats"></a>
-<a href="https://github.com/zxzinn/github-stats"><img src="https://raw.githubusercontent.com/zxzinn/github-stats/generated/languages.svg" width="49%" alt="Most used languages"></a>
-</details>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/impact-dark.svg">
+  <img alt="At MaiAgent: WebSocket concurrency 400 to 2,000, completions P99 from about 20s to under 3s, 1,042 lines of streaming orchestration removed, 23 Terraform modules" src="assets/impact-light.svg" width="100%">
+</picture>
+
+At MaiAgent I worked on the migration from LlamaIndex to LangChain/LangGraph, an OpenAI-compatible LLM gateway, and a fair amount of production debugging across CPython, aiohttp, Django ASGI, PgBouncer, and Celery — with a lot of help from a great team.
+
+### Open source
+
+<a href="https://github.com/zxzinn/django-makemessages-rs"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-django-makemessages-rs-dark.svg"><img alt="django-makemessages-rs" src="assets/card-django-makemessages-rs-light.svg" width="49%"></picture></a><a href="https://github.com/zxzinn/cf-gdrive-mcp"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-cf-gdrive-mcp-dark.svg"><img alt="cf-gdrive-mcp" src="assets/card-cf-gdrive-mcp-light.svg" width="49%"></picture></a>
+<a href="https://github.com/zxzinn/opencti-mcp"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-opencti-mcp-dark.svg"><img alt="opencti-mcp" src="assets/card-opencti-mcp-light.svg" width="49%"></picture></a><a href="https://github.com/zxzinn/neon-selfhost"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-neon-selfhost-dark.svg"><img alt="neon-selfhost" src="assets/card-neon-selfhost-light.svg" width="49%"></picture></a>
+<a href="https://github.com/zxzinn/django-channels-jwt-stateless"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-django-channels-jwt-stateless-dark.svg"><img alt="django-channels-jwt-stateless" src="assets/card-django-channels-jwt-stateless-light.svg" width="49%"></picture></a><a href="https://github.com/zxzinn/djangorestframework-camel-case"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-djangorestframework-camel-case-dark.svg"><img alt="djangorestframework-camel-case" src="assets/card-djangorestframework-camel-case-light.svg" width="49%"></picture></a>
+
+<br>
+
+<a href="https://github.com/search?q=author%3Azxzinn+is%3Apr+is%3Amerged+-user%3Azxzinn&type=pullrequests"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/upstream-dark.svg"><img alt="Small merged pull requests to LlamaIndex, modelcontextprotocol/servers, Lightpanda, OpenTelemetry JS, Vercel AI Elements, and NeoForge" src="assets/upstream-light.svg" width="100%"></picture></a>
+
+<p>
+  <a href="https://github.com/run-llama/llama_index/pulls?q=is%3Apr+author%3Azxzinn+is%3Amerged">LlamaIndex PRs</a> ·
+  <a href="https://github.com/lightpanda-io/browser/pull/4080">Lightpanda #4080</a> ·
+  <a href="https://github.com/open-telemetry/opentelemetry-js/pull/6215">OpenTelemetry JS #6215</a> ·
+  <a href="https://github.com/vercel/ai-elements/pull/125">AI Elements #125</a> ·
+  <a href="https://github.com/neoforged/NeoForge/pull/3260">NeoForge #3260</a>
+</p>
+
+---
+
+<p>
+  <a href="https://www.linkedin.com/in/zxzinn/">LinkedIn</a> ·
+  <a href="mailto:zhaoxinzhang0429@gmail.com">Email</a>
+</p>

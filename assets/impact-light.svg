@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="250" viewBox="0 0 1200 250" fill="none">
+<style>
+  .sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif; }
+  .mono { font-family: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace; }
+  .flow { stroke-dasharray: 3 7; animation: flow 1.6s linear infinite; }
+  .blink { animation: blink 1.1s steps(1) infinite; }
+  .pulse { animation: pulse 2.4s ease-in-out infinite; }
+  @keyframes flow { to { stroke-dashoffset: -20; } }
+  @keyframes blink { 50% { opacity: 0; } }
+  @keyframes pulse { 0%, 100% { opacity: 0.35; } 50% { opacity: 1; } }
+  
+  @media (prefers-reduced-motion: reduce) { .flow, .blink, .pulse { animation: none; } }
+</style>
+<rect x="0.5" y="0.5" width="1199" height="249" rx="12" fill="#f6f8fa" stroke="#d0d7de"/>
+<text x="40" y="49" class="mono" font-size="12" letter-spacing="1.5" fill="#59636e">PREVIOUSLY</text>
+<text x="40" y="80" class="sans" font-size="22" font-weight="700" fill="#1f2328">MaiAgent — AI Agent Engineer, platform team</text>
+<text x="1160" y="49" class="mono" font-size="12" letter-spacing="0.5" fill="#59636e" text-anchor="end">100+ ENTERPRISES · FINANCE · MANUFACTURING · GOV</text>
+<rect x="40" y="92" width="268" height="140" rx="8" fill="#ffffff" stroke="#d0d7de"/>
+<text x="58" y="120" class="mono" font-size="11" letter-spacing="1" fill="#59636e">WEBSOCKET CONCURRENCY</text>
+<text x="58" y="162" class="sans" font-size="30" font-weight="700" fill="#1f2328" letter-spacing="-0.5"><tspan fill="#8c959f" font-weight="500">400</tspan><tspan fill="#1f5fd1"> → </tspan>2,000</text>
+<text x="58" y="194" class="mono" font-size="11" fill="#59636e">before</text>
+<rect x="110" y="184" width="35.2" height="12" rx="3" fill="#8c959f" opacity="0.55"/>
+<text x="58" y="216" class="mono" font-size="11" fill="#59636e">after</text>
+<rect x="110" y="206" width="176" height="12" rx="3" fill="#1f5fd1" opacity="1"/>
+<rect x="324" y="92" width="268" height="140" rx="8" fill="#ffffff" stroke="#d0d7de"/>
+<text x="342" y="120" class="mono" font-size="11" letter-spacing="1" fill="#59636e">COMPLETIONS P99</text>
+<text x="342" y="162" class="sans" font-size="30" font-weight="700" fill="#1f2328" letter-spacing="-0.5"><tspan fill="#8c959f" font-weight="500">~20s</tspan><tspan fill="#1f5fd1"> → </tspan>&lt;3s</text>
+<text x="342" y="194" class="mono" font-size="11" fill="#59636e">before</text>
+<rect x="394" y="184" width="176" height="12" rx="3" fill="#8c959f" opacity="0.55"/>
+<text x="342" y="216" class="mono" font-size="11" fill="#59636e">after</text>
+<rect x="394" y="206" width="26.4" height="12" rx="3" fill="#1f5fd1" opacity="1"/>
+<rect x="608" y="92" width="268" height="140" rx="8" fill="#ffffff" stroke="#d0d7de"/>
+<text x="626" y="120" class="mono" font-size="11" letter-spacing="1" fill="#59636e">STREAMING STACK</text>
+<text x="626" y="162" class="sans" font-size="30" font-weight="700" fill="#1f2328" letter-spacing="-0.5">−1,042 lines</text>
+<text x="626" y="204" class="sans" font-size="13" fill="#59636e">after LlamaIndex → LangGraph</text>
+<rect x="892" y="92" width="268" height="140" rx="8" fill="#ffffff" stroke="#d0d7de"/>
+<text x="910" y="120" class="mono" font-size="11" letter-spacing="1" fill="#59636e">INFRASTRUCTURE AS CODE</text>
+<text x="910" y="162" class="sans" font-size="30" font-weight="700" fill="#1f2328" letter-spacing="-0.5">23 modules</text>
+<text x="910" y="204" class="sans" font-size="13" fill="#59636e">80+ AWS resources · Terraform</text>
+</svg>

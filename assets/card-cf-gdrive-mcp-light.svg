@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="590" height="168" viewBox="0 0 590 168" fill="none">
+<style>
+  .sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif; }
+  .mono { font-family: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace; }
+  .flow { stroke-dasharray: 3 7; animation: flow 1.6s linear infinite; }
+  .blink { animation: blink 1.1s steps(1) infinite; }
+  .pulse { animation: pulse 2.4s ease-in-out infinite; }
+  @keyframes flow { to { stroke-dashoffset: -20; } }
+  @keyframes blink { 50% { opacity: 0; } }
+  @keyframes pulse { 0%, 100% { opacity: 0.35; } 50% { opacity: 1; } }
+  
+  @media (prefers-reduced-motion: reduce) { .flow, .blink, .pulse { animation: none; } }
+</style>
+<rect x="0.5" y="0.5" width="589" height="167" rx="12" fill="#f6f8fa" stroke="#d0d7de"/>
+<rect x="24" y="26" width="20" height="18" rx="3" stroke="#59636e" stroke-width="1.4"/>
+<path d="M29 26v18" stroke="#59636e" stroke-width="1.4"/>
+<text x="58" y="40" class="mono" font-size="16" font-weight="600" fill="#1f2328">cf-gdrive-mcp</text>
+<text x="566" y="40" class="sans" font-size="20" font-weight="700" fill="#1f5fd1" text-anchor="end">→ production</text>
+<text x="566" y="60" class="mono" font-size="11" fill="#59636e" text-anchor="end">side project, adopted</text>
+<line x1="24" y1="74" x2="566" y2="74" stroke="#d0d7de"/>
+<text x="24" y="100" class="sans" font-size="13.5" fill="#59636e">Remote Google Drive MCP server on Cloudflare Workers with OAuth.</text>
+<text x="24" y="120" class="sans" font-size="13.5" fill="#59636e">Became the foundation of MaiAgent's production Workspace MCP.</text>
+<circle cx="30" cy="146" r="5" fill="#3178c6"/>
+<text x="42" y="150" class="mono" font-size="12" fill="#59636e">TypeScript  ·  MCP · Workers</text>
+</svg>

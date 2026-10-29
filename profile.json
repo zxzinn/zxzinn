@@ -1,0 +1,349 @@
+{
+  "hero": {
+    "name": "Chao-Chin (Zach) Chang",
+    "headline": [
+      "Software engineer working on AI platforms",
+      "and the infrastructure underneath them."
+    ],
+    "location": "Taipei · UTC+8",
+    "stack": [
+      "TypeScript",
+      "Python",
+      "Go",
+      "Rust",
+      "Kubernetes",
+      "Terraform"
+    ],
+    "status": [
+      [
+        "role",
+        "co-founder & CTO (stealth)"
+      ],
+      [
+        "building",
+        "enterprise AI platform"
+      ],
+      [
+        "focus",
+        "authz · agents · on-prem"
+      ],
+      [
+        "prior",
+        "MaiAgent · 100+ enterprises"
+      ]
+    ]
+  },
+  "architecture": {
+    "title": "A ReBAC-native enterprise AI platform, on-prem first",
+    "subtitle": "STACK ONLY · PRODUCT UNDISCLOSED",
+    "lanes": [
+      {
+        "name": "SURFACES",
+        "nodes": [
+          [
+            "Customer web app",
+            "React · TanStack Router"
+          ],
+          [
+            "Platform admin",
+            "separate ops console"
+          ],
+          [
+            "Ops CLI",
+            "provisioning · recovery"
+          ]
+        ]
+      },
+      {
+        "name": "API",
+        "nodes": [
+          [
+            "Typed API",
+            "Hono · oRPC · Zod contracts"
+          ],
+          [
+            "Identity",
+            "Better Auth · OIDC · SCIM"
+          ],
+          [
+            "Policy gate",
+            "per-handler authz manifest"
+          ]
+        ]
+      },
+      {
+        "name": "CONTROL",
+        "nodes": [
+          [
+            "ReBAC authorization",
+            "relation graph · causal reads",
+            true
+          ],
+          [
+            "Change control",
+            "sagas · audit · revert",
+            true
+          ],
+          [
+            "Event backbone",
+            "transactional outbox/inbox"
+          ],
+          [
+            "AI gateway",
+            "routing · policy · budgets",
+            true
+          ]
+        ]
+      },
+      {
+        "name": "EXECUTION",
+        "nodes": [
+          [
+            "Workers",
+            "BullMQ · projection leases"
+          ],
+          [
+            "Agent sandbox",
+            "Kata · OpenSandbox",
+            true
+          ],
+          [
+            "Retrieval",
+            "embed · rerank · OCR"
+          ],
+          [
+            "Browser runtime",
+            "agent browser automation"
+          ]
+        ]
+      },
+      {
+        "name": "DATA",
+        "nodes": [
+          [
+            "PostgreSQL",
+            "Drizzle · migrations as code"
+          ],
+          [
+            "Valkey",
+            "queues · bounded clients"
+          ],
+          [
+            "Object storage",
+            "S3-compatible"
+          ],
+          [
+            "Vector store",
+            "embedding index"
+          ]
+        ]
+      },
+      {
+        "name": "PLATFORM",
+        "nodes": [
+          [
+            "Kubernetes",
+            "K3s · Helm · Coder"
+          ],
+          [
+            "Cloud",
+            "Azure · Pulumi · Terraform"
+          ],
+          [
+            "On-prem",
+            "GPU delivery appliance"
+          ],
+          [
+            "Observability",
+            "OpenTelemetry · SLOs"
+          ]
+        ]
+      }
+    ]
+  },
+  "metrics": {
+    "caption": "ONE PRIVATE MONOREPO · AUG – OCT 2026",
+    "items": [
+      [
+        "1,136",
+        "merged PRs authored"
+      ],
+      [
+        "569",
+        "tracked issues"
+      ],
+      [
+        "33",
+        "workspace packages"
+      ],
+      [
+        "6",
+        "deployable apps"
+      ],
+      [
+        "10",
+        "ADRs"
+      ],
+      [
+        "43",
+        "bilingual docs"
+      ]
+    ]
+  },
+  "impact": {
+    "title": "MaiAgent — AI Agent Engineer, platform team",
+    "subtitle": "100+ ENTERPRISES · FINANCE · MANUFACTURING · GOV",
+    "items": [
+      {
+        "label": "WEBSOCKET CONCURRENCY",
+        "before": "400",
+        "value": "2,000",
+        "bars": [
+          [
+            "before",
+            400
+          ],
+          [
+            "after",
+            2000,
+            true
+          ]
+        ]
+      },
+      {
+        "label": "COMPLETIONS P99",
+        "before": "~20s",
+        "value": "<3s",
+        "bars": [
+          [
+            "before",
+            20
+          ],
+          [
+            "after",
+            3,
+            true
+          ]
+        ]
+      },
+      {
+        "label": "STREAMING STACK",
+        "value": "−1,042 lines",
+        "note": "after LlamaIndex → LangGraph"
+      },
+      {
+        "label": "INFRASTRUCTURE AS CODE",
+        "value": "23 modules",
+        "note": "80+ AWS resources · Terraform"
+      }
+    ]
+  },
+  "projects": [
+    {
+      "name": "django-makemessages-rs",
+      "metric": "20s → <1s",
+      "metricLabel": "i18n extraction",
+      "desc": [
+        "Rust replacement for Django's makemessages with byte-identical",
+        "PO output. Runs in a production team's pre-commit hooks and CI."
+      ],
+      "lang": "Rust",
+      "tags": "CLI"
+    },
+    {
+      "name": "cf-gdrive-mcp",
+      "metric": "→ production",
+      "metricLabel": "side project, adopted",
+      "desc": [
+        "Remote Google Drive MCP server on Cloudflare Workers with OAuth.",
+        "Became the foundation of MaiAgent's production Workspace MCP."
+      ],
+      "lang": "TypeScript",
+      "tags": "MCP · Workers"
+    },
+    {
+      "name": "opencti-mcp",
+      "metric": "41★ · 20",
+      "metricLabel": "stars · forks",
+      "desc": [
+        "MCP server for OpenCTI threat intelligence: indicators, reports,",
+        "malware, and actors. Listed in modelcontextprotocol/servers."
+      ],
+      "lang": "TypeScript",
+      "tags": "MCP · security"
+    },
+    {
+      "name": "neon-selfhost",
+      "metric": "CoW branches",
+      "metricLabel": "Postgres per branch",
+      "desc": [
+        "Go CLI and Helm chart for self-hosted Neon: copy-on-write",
+        "Postgres branching across Docker and Kubernetes."
+      ],
+      "lang": "Go",
+      "tags": "Helm"
+    },
+    {
+      "name": "django-channels-jwt-stateless",
+      "metric": "0 queries",
+      "metricLabel": "per WebSocket handshake",
+      "desc": [
+        "Stateless JWT authentication middleware for Django Channels.",
+        "Keeps auth on the async ASGI path with no database round trip."
+      ],
+      "lang": "Python",
+      "tags": "ASGI"
+    },
+    {
+      "name": "djangorestframework-camel-case",
+      "metric": "async-native",
+      "metricLabel": "ASGI middleware",
+      "desc": [
+        "Fork adding native async middleware after tracing production",
+        "CurrentThreadExecutor failures to one sync-only middleware."
+      ],
+      "lang": "Python",
+      "tags": "fork"
+    }
+  ],
+  "upstream": {
+    "items": [
+      [
+        "run-llama/llama_index",
+        "52.7k",
+        11,
+        "agent workflows · MCP schemas · Bedrock reasoning · retries"
+      ],
+      [
+        "modelcontextprotocol/servers",
+        "91.7k",
+        1,
+        "listed the OpenCTI MCP server"
+      ],
+      [
+        "lightpanda-io/browser",
+        "37.2k",
+        1,
+        "Escape closes the topmost modal dialog"
+      ],
+      [
+        "open-telemetry/opentelemetry-js",
+        "3.5k",
+        1,
+        "gRPC insecure-connection guidance"
+      ],
+      [
+        "vercel/ai-elements",
+        "2.5k",
+        1,
+        "prompt input form submission and reset"
+      ],
+      [
+        "neoforged/NeoForge",
+        "2.1k",
+        2,
+        "FakePlayer criteria-listener memory leak"
+      ]
+    ]
+  }
+}
