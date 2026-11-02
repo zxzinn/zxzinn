@@ -1,4 +1,4 @@
-// Refresh public GitHub counters; private-project metrics remain a dated snapshot.
+// Refresh public GitHub counters; private-project metrics are refreshed separately by their owning repository.
 import { readFileSync, writeFileSync } from 'node:fs';
 import { execFileSync } from 'node:child_process';
 const root = new URL('../', import.meta.url);
@@ -26,6 +26,6 @@ data.updatedAt = new Date().toISOString().slice(0, 10);
 writeFileSync(file, JSON.stringify(data, null, 2) + '\n');
 const readmeFile = new URL('README.md', root);
 let readme = readFileSync(readmeFile, 'utf8');
-readme = readme.replace(/<!-- public-stats:start -->[\s\S]*?<!-- public-stats:end -->/, `<!-- public-stats:start -->\nPublic GitHub counters updated ${data.updatedAt} (UTC). Private monorepo metrics above are an August–October 2026 snapshot.\n<!-- public-stats:end -->`);
+readme = readme.replace(/<!-- public-stats:start -->[\s\S]*?<!-- public-stats:end -->/, `<!-- public-stats:start -->\nPublic GitHub counters updated ${data.updatedAt} (UTC).\n<!-- public-stats:end -->`);
 writeFileSync(readmeFile, readme);
 execFileSync(process.execPath, [new URL('scripts/build.mjs', root).pathname], { stdio: 'inherit' });

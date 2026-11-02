@@ -12,7 +12,7 @@ I work on AI platforms: agent runtimes, LLM gateways, authorization, sandboxed e
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/metrics-dark.svg">
-  <img alt="1,136 merged PRs, 569 issues, 33 packages, 6 apps, 10 ADRs, and 43 bilingual docs in one private monorepo between August and October 2026" src="assets/metrics-light.svg" width="100%">
+  <img alt="1,947 merged PRs authored, 1,569 tracked issues, 39 workspace packages, 6 deployable apps, 13 ADRs, 70 bilingual docs in one private monorepo as of 2026-11-02" src="assets/metrics-light.svg" width="100%">
 </picture>
 
 Some of the problems I've been working through on this project:
@@ -48,8 +48,12 @@ At MaiAgent I worked on the migration from LlamaIndex to LangChain/LangGraph, an
   <a href="https://github.com/neoforged/NeoForge/pull/3260">NeoForge #3260</a>
 </p>
 
+<!-- private-stats:start -->
+Private monorepo counters updated 2026-11-02 (UTC). Counts cover authored merged PRs and all issues since repository creation, workspace package/app manifests, numbered ADRs, and paired bilingual documents under docs/ (excluding README indexes).
+<!-- private-stats:end -->
+
 <!-- public-stats:start -->
-Public GitHub counters updated 2026-11-02 (UTC). Private monorepo metrics above are an August–October 2026 snapshot.
+Public GitHub counters updated 2026-11-02 (UTC).
 <!-- public-stats:end -->
 
 ---
