@@ -12,7 +12,7 @@ I work on AI platforms: agent runtimes, LLM gateways, authorization, sandboxed e
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/metrics-dark.svg">
-  <img alt="1,947 merged PRs authored, 1,569 tracked issues, 39 workspace packages, 6 deployable apps, 13 ADRs, 70 bilingual docs in one private monorepo as of 2026-11-02" src="assets/metrics-light.svg" width="100%">
+  <img alt="1,949 merged PRs authored, 1,570 tracked issues, 39 workspace packages, 6 deployable apps, 13 ADRs, 70 bilingual docs in one private monorepo as of 2026-11-02" src="assets/metrics-light.svg" width="100%">
 </picture>
 
 Some of the problems I've been working through on this project:
