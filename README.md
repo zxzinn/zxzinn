@@ -48,6 +48,10 @@ At MaiAgent I worked on the migration from LlamaIndex to LangChain/LangGraph, an
   <a href="https://github.com/neoforged/NeoForge/pull/3260">NeoForge #3260</a>
 </p>
 
+<!-- public-stats:start -->
+Public GitHub counters updated 2026-11-02 (UTC). Private monorepo metrics above are an August–October 2026 snapshot.
+<!-- public-stats:end -->
+
 ---
 
 <p>
