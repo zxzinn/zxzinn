@@ -263,7 +263,7 @@
     },
     {
       "name": "opencti-mcp",
-      "metric": "41★ · 20",
+      "metric": "42★ · 19",
       "metricLabel": "stars · forks",
       "desc": [
         "MCP server for OpenCTI threat intelligence: indicators, reports,",
@@ -310,40 +310,41 @@
     "items": [
       [
         "run-llama/llama_index",
-        "52.7k",
+        "52.8K",
         11,
         "agent workflows · MCP schemas · Bedrock reasoning · retries"
       ],
       [
         "modelcontextprotocol/servers",
-        "91.7k",
+        "91.7K",
         1,
         "listed the OpenCTI MCP server"
       ],
       [
         "lightpanda-io/browser",
-        "37.2k",
+        "40.2K",
         1,
         "Escape closes the topmost modal dialog"
       ],
       [
         "open-telemetry/opentelemetry-js",
-        "3.5k",
+        "3.5K",
         1,
         "gRPC insecure-connection guidance"
       ],
       [
         "vercel/ai-elements",
-        "2.5k",
+        "2.5K",
         1,
         "prompt input form submission and reset"
       ],
       [
         "neoforged/NeoForge",
-        "2.1k",
+        "2.1K",
         2,
         "FakePlayer criteria-listener memory leak"
       ]
     ]
-  }
+  },
+  "updatedAt": "2026-11-02"
 }
