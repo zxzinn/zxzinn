@@ -12,23 +12,23 @@
   @media (prefers-reduced-motion: reduce) { .flow, .blink, .pulse { animation: none; } }
 </style>
 <rect x="0.5" y="0.5" width="1199" height="147" rx="12" fill="#f6f8fa" stroke="#d0d7de"/>
-<text x="40" y="34" class="mono" font-size="11" letter-spacing="1.5" fill="#59636e">ONE PRIVATE MONOREPO · AUG – OCT 2026</text>
+<text x="40" y="34" class="mono" font-size="11" letter-spacing="1.5" fill="#59636e">ONE PRIVATE MONOREPO · AS OF 2026-11-02</text>
 
-<text x="40" y="86" class="sans" font-size="38" font-weight="700" fill="#1f2328" letter-spacing="-0.5">1,136</text>
+<text x="40" y="86" class="sans" font-size="38" font-weight="700" fill="#1f2328" letter-spacing="-0.5">1,947</text>
 <text x="40" y="110" class="mono" font-size="12" fill="#59636e">merged PRs authored</text>
 <line x1="226.66666666666666" y1="40" x2="226.66666666666666" y2="108" stroke="#d0d7de"/>
-<text x="250.66666666666666" y="86" class="sans" font-size="38" font-weight="700" fill="#1f2328" letter-spacing="-0.5">569</text>
+<text x="250.66666666666666" y="86" class="sans" font-size="38" font-weight="700" fill="#1f2328" letter-spacing="-0.5">1,569</text>
 <text x="250.66666666666666" y="110" class="mono" font-size="12" fill="#59636e">tracked issues</text>
 <line x1="413.3333333333333" y1="40" x2="413.3333333333333" y2="108" stroke="#d0d7de"/>
-<text x="437.3333333333333" y="86" class="sans" font-size="38" font-weight="700" fill="#1f2328" letter-spacing="-0.5">33</text>
+<text x="437.3333333333333" y="86" class="sans" font-size="38" font-weight="700" fill="#1f2328" letter-spacing="-0.5">39</text>
 <text x="437.3333333333333" y="110" class="mono" font-size="12" fill="#59636e">workspace packages</text>
 <line x1="600" y1="40" x2="600" y2="108" stroke="#d0d7de"/>
 <text x="624" y="86" class="sans" font-size="38" font-weight="700" fill="#1f2328" letter-spacing="-0.5">6</text>
 <text x="624" y="110" class="mono" font-size="12" fill="#59636e">deployable apps</text>
 <line x1="786.6666666666666" y1="40" x2="786.6666666666666" y2="108" stroke="#d0d7de"/>
-<text x="810.6666666666666" y="86" class="sans" font-size="38" font-weight="700" fill="#1f2328" letter-spacing="-0.5">10</text>
+<text x="810.6666666666666" y="86" class="sans" font-size="38" font-weight="700" fill="#1f2328" letter-spacing="-0.5">13</text>
 <text x="810.6666666666666" y="110" class="mono" font-size="12" fill="#59636e">ADRs</text>
 <line x1="973.3333333333333" y1="40" x2="973.3333333333333" y2="108" stroke="#d0d7de"/>
-<text x="997.3333333333333" y="86" class="sans" font-size="38" font-weight="700" fill="#1f2328" letter-spacing="-0.5">43</text>
+<text x="997.3333333333333" y="86" class="sans" font-size="38" font-weight="700" fill="#1f2328" letter-spacing="-0.5">70</text>
 <text x="997.3333333333333" y="110" class="mono" font-size="12" fill="#59636e">bilingual docs</text>
 </svg>
