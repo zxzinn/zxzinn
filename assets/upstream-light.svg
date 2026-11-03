@@ -22,13 +22,13 @@
 <text x="640" y="134" class="sans" font-size="13.5" fill="#59636e">agent workflows · MCP schemas · Bedrock reasoning · retries</text>
 <line x1="40" y1="156" x2="1160" y2="156" stroke="#d0d7de"/>
 <text x="40" y="180" class="mono" font-size="14" fill="#1f2328">modelcontextprotocol/servers</text>
-<text x="420" y="180" class="mono" font-size="12" fill="#59636e">★ 91.7K</text>
+<text x="420" y="180" class="mono" font-size="12" fill="#59636e">★ 91.8K</text>
 <rect x="510" y="164" width="78" height="22" rx="11" fill="rgba(31,95,209,0.07)" stroke="#1f5fd1" stroke-opacity="0.5"/>
 <text x="520" y="179" class="mono" font-size="12" fill="#1f5fd1">1 merged</text>
 <text x="640" y="180" class="sans" font-size="13.5" fill="#59636e">listed the OpenCTI MCP server</text>
 <line x1="40" y1="202" x2="1160" y2="202" stroke="#d0d7de"/>
 <text x="40" y="226" class="mono" font-size="14" fill="#1f2328">lightpanda-io/browser</text>
-<text x="420" y="226" class="mono" font-size="12" fill="#59636e">★ 40.2K</text>
+<text x="420" y="226" class="mono" font-size="12" fill="#59636e">★ 41K</text>
 <rect x="510" y="210" width="78" height="22" rx="11" fill="rgba(31,95,209,0.07)" stroke="#1f5fd1" stroke-opacity="0.5"/>
 <text x="520" y="225" class="mono" font-size="12" fill="#1f5fd1">1 merged</text>
 <text x="640" y="226" class="sans" font-size="13.5" fill="#59636e">Escape closes the topmost modal dialog</text>
