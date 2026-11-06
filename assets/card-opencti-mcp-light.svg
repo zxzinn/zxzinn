@@ -15,7 +15,7 @@
 <rect x="24" y="26" width="20" height="18" rx="3" stroke="#59636e" stroke-width="1.4"/>
 <path d="M29 26v18" stroke="#59636e" stroke-width="1.4"/>
 <text x="58" y="40" class="mono" font-size="16" font-weight="600" fill="#1f2328">opencti-mcp</text>
-<text x="566" y="40" class="sans" font-size="20" font-weight="700" fill="#1f5fd1" text-anchor="end">42★ · 19</text>
+<text x="566" y="40" class="sans" font-size="20" font-weight="700" fill="#1f5fd1" text-anchor="end">42★ · 18</text>
 <text x="566" y="60" class="mono" font-size="11" fill="#59636e" text-anchor="end">stars · forks</text>
 <line x1="24" y1="74" x2="566" y2="74" stroke="#d0d7de"/>
 <text x="24" y="100" class="sans" font-size="13.5" fill="#59636e">MCP server for OpenCTI threat intelligence: indicators, reports,</text>

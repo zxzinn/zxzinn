@@ -263,7 +263,7 @@
     },
     {
       "name": "opencti-mcp",
-      "metric": "42★ · 19",
+      "metric": "42★ · 18",
       "metricLabel": "stars · forks",
       "desc": [
         "MCP server for OpenCTI threat intelligence: indicators, reports,",
@@ -322,7 +322,7 @@
       ],
       [
         "lightpanda-io/browser",
-        "41.3K",
+        "41.4K",
         1,
         "Escape closes the topmost modal dialog"
       ],
@@ -346,5 +346,5 @@
       ]
     ]
   },
-  "updatedAt": "2026-11-05"
+  "updatedAt": "2026-11-06"
 }
