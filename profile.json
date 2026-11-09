@@ -310,7 +310,7 @@
     "items": [
       [
         "run-llama/llama_index",
-        "52.8K",
+        "52.9K",
         11,
         "agent workflows · MCP schemas · Bedrock reasoning · retries"
       ],
@@ -346,5 +346,5 @@
       ]
     ]
   },
-  "updatedAt": "2026-11-08"
+  "updatedAt": "2026-11-09"
 }
