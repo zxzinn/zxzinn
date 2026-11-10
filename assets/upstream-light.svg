@@ -28,7 +28,7 @@
 <text x="640" y="180" class="sans" font-size="13.5" fill="#59636e">listed the OpenCTI MCP server</text>
 <line x1="40" y1="202" x2="1160" y2="202" stroke="#d0d7de"/>
 <text x="40" y="226" class="mono" font-size="14" fill="#1f2328">lightpanda-io/browser</text>
-<text x="420" y="226" class="mono" font-size="12" fill="#59636e">★ 41.6K</text>
+<text x="420" y="226" class="mono" font-size="12" fill="#59636e">★ 41.7K</text>
 <rect x="510" y="210" width="78" height="22" rx="11" fill="rgba(31,95,209,0.07)" stroke="#1f5fd1" stroke-opacity="0.5"/>
 <text x="520" y="225" class="mono" font-size="12" fill="#1f5fd1">1 merged</text>
 <text x="640" y="226" class="sans" font-size="13.5" fill="#59636e">Escape closes the topmost modal dialog</text>
