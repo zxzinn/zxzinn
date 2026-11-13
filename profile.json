@@ -316,13 +316,13 @@
       ],
       [
         "modelcontextprotocol/servers",
-        "91.9K",
+        "92K",
         1,
         "listed the OpenCTI MCP server"
       ],
       [
         "lightpanda-io/browser",
-        "41.9K",
+        "42K",
         1,
         "Escape closes the topmost modal dialog"
       ],
@@ -346,5 +346,5 @@
       ]
     ]
   },
-  "updatedAt": "2026-11-12"
+  "updatedAt": "2026-11-13"
 }

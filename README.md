@@ -53,7 +53,7 @@ Private monorepo counters updated 2026-11-13 (UTC). Counts cover authored merged
 <!-- private-stats:end -->
 
 <!-- public-stats:start -->
-Public GitHub counters updated 2026-11-12 (UTC).
+Public GitHub counters updated 2026-11-13 (UTC).
 <!-- public-stats:end -->
 
 ---
