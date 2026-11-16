@@ -340,11 +340,11 @@
       ],
       [
         "neoforged/NeoForge",
-        "2.1K",
+        "2.2K",
         2,
         "FakePlayer criteria-listener memory leak"
       ]
     ]
   },
-  "updatedAt": "2026-11-15"
+  "updatedAt": "2026-11-16"
 }
