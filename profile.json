@@ -162,18 +162,18 @@
     ]
   },
   "metrics": {
-    "caption": "ONE PRIVATE MONOREPO · AS OF 2026-11-16",
+    "caption": "ONE PRIVATE MONOREPO · AS OF 2026-11-17",
     "items": [
       [
-        "3,197",
+        "3,253",
         "merged PRs authored"
       ],
       [
-        "2,663",
+        "2,691",
         "tracked issues"
       ],
       [
-        "41",
+        "42",
         "workspace packages"
       ],
       [
@@ -185,7 +185,7 @@
         "ADRs"
       ],
       [
-        "87",
+        "86",
         "bilingual docs"
       ]
     ]
