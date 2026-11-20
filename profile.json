@@ -322,7 +322,7 @@
       ],
       [
         "lightpanda-io/browser",
-        "42.2K",
+        "42.3K",
         1,
         "Escape closes the topmost modal dialog"
       ],
@@ -346,5 +346,5 @@
       ]
     ]
   },
-  "updatedAt": "2026-11-19"
+  "updatedAt": "2026-11-20"
 }
