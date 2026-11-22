@@ -316,7 +316,7 @@
       ],
       [
         "modelcontextprotocol/servers",
-        "92.1K",
+        "92.2K",
         1,
         "listed the OpenCTI MCP server"
       ],
@@ -346,5 +346,5 @@
       ]
     ]
   },
-  "updatedAt": "2026-11-21"
+  "updatedAt": "2026-11-22"
 }
