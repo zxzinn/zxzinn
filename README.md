@@ -12,7 +12,7 @@ I work on AI platforms: agent runtimes, LLM gateways, authorization, sandboxed e
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/metrics-dark.svg">
-  <img alt="4,091 merged PRs authored, 3,051 tracked issues, 42 workspace packages, 6 deployable apps, 24 ADRs, 93 bilingual docs in one private monorepo as of 2026-11-24" src="assets/metrics-light.svg" width="100%">
+  <img alt="4,226 merged PRs authored, 3,091 tracked issues, 42 workspace packages, 6 deployable apps, 25 ADRs, 91 bilingual docs in one private monorepo as of 2026-11-25" src="assets/metrics-light.svg" width="100%">
 </picture>
 
 Some of the problems I've been working through on this project:
@@ -49,7 +49,7 @@ At MaiAgent I worked on the migration from LlamaIndex to LangChain/LangGraph, an
 </p>
 
 <!-- private-stats:start -->
-Private monorepo counters updated 2026-11-24 (UTC). Counts cover authored merged PRs and all issues since repository creation, workspace package/app manifests, numbered ADRs, and paired bilingual documents under docs/ (excluding README indexes).
+Private monorepo counters updated 2026-11-25 (UTC). Counts cover authored merged PRs and all issues since repository creation, workspace package/app manifests, numbered ADRs, and paired bilingual documents under docs/ (excluding README indexes).
 <!-- private-stats:end -->
 
 <!-- public-stats:start -->
